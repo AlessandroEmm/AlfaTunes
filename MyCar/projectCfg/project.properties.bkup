@@ -1,12 +1,13 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Jan 09 21:48:02 CET 2019
-#Wed Jan 09 21:48:02 CET 2019
+#Last Saved on: Wed Jan 09 21:50:46 CET 2019
+#Wed Jan 09 21:50:46 CET 2019
 crankPWCranking\ Pulsewidths\ (ms)_height=355
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 CommSettingAlessandros-Mac-mini.localCommDriver.controllerInterfaceId=RS232 Serial Interface
-canId=-1
+canId=0
 refTable_001_chkFahrenheit=false
+firmwareDescription=Speeduino 2018.8
 injCharsInjector\ Characteristics_Y=522
 injCharsInjector\ Characteristics_X=1185
 inj_trimadInjector\ Cyl\ 1-4\ Trims_width=503
@@ -74,8 +75,8 @@ RevLimiterSRev\ Limiter_Y=586
 ecuConfigFile=mainController.ini
 RevLimiterSRev\ Limiter_X=1106
 refTable_002_txtX2=4.0
-refTable_001_txtTemp3=99.0
 refTable_002_txtX1=1.0
+refTable_001_txtTemp3=99.0
 refTable_001_txtTemp2=30.0
 refTable_001_txtTemp1=-40.0
 airdensity_curveIAT\ density\ correction_Y=599
@@ -87,8 +88,8 @@ CommSettingAlessandros-Mac-mini.localCommDriver.RS232\ Serial\ InterfaceBluetoot
 dashBoardFile=/dashboard//dashboard.dash
 tuneFileDir=/Users/ale/Downloads/speeduino/reference
 refTable_000_txtResistor3=177.0
-injCharsInjector\ Characteristics_width=380
 refTable_000_txtResistor2=2238.0
+injCharsInjector\ Characteristics_width=380
 refTable_000_txtResistor1=100700.0
 refTable_000_chkCelsius=true
 crankPWCranking\ Pulsewidths\ (ms)_Y=515
@@ -100,8 +101,8 @@ accelEnrichmentsAcceleration\ Enrichment_Y=651
 accelEnrichmentsAcceleration\ Enrichment_X=1158
 mapCalCalibrate\ MAP_width=380
 inj_trimadInjector\ Cyl\ 1-4\ Trims_Y=447
-CommSettingMacBook-Pro-2.localCommDriver.controllerInterfaceId=RS232 Serial Interface
 inj_trimadInjector\ Cyl\ 1-4\ Trims_X=1044
+CommSettingMacBook-Pro-2.localCommDriver.controllerInterfaceId=RS232 Serial Interface
 CommSettingMacBook-Pro-2.localCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
-ecuSettings=CAN_COMMANDS_OFF|CELSIUS|SPEED_DENSITY|
 triggerSettingsTrigger\ Settings_width=434
+ecuSettings=CAN_COMMANDS_OFF|CELSIUS|SPEED_DENSITY|

@@ -1,0 +1,57 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Thu Apr 18 08:17:02 CEST 2019
+#Thu Apr 18 08:17:02 CEST 2019
+dwellSettingsDwell\ Settings_X=517
+Triggers.ActiveTriggers=
+mapCalCalibrate\ MAP_height=481
+triggerSettingsTrigger\ Settings_Y=204
+egoControlAFR/O2_X=517
+egoControlAFR/O2_Y=257
+ecuConfigFile=mainController.ini
+sparkSettingsSpark\ Settings_X=335
+triggerSettingsTrigger\ Settings_height=521
+sparkSettingsSpark\ Settings_height=393
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM1
+CommSettingAlesLappyCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+ecuSettings=AFR|CAN_COMMANDS_OFF|CELSIUS|SPEED_DENSITY|enablehardware_test_OFF|resetcontrol_standard|
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+sparkSettingsSpark\ Settings_width=759
+dwellSettingsDwell\ Settings_width=396
+commPort=/dev/ttyACM0
+refTable_002_txtY1=9.7
+sensorFiltersAnalog\ sensor\ filters_height=503
+canId=-1
+refTable_002_txtY2=18.7
+dashBoardFile=/dashboard//dashboard.dash
+baudRate=115200
+sparkTblIgnition\ Advance\ Table_X=444
+triggerSettingsTrigger\ Settings_X=413
+selectedComDriver=Multi Interface MegaSquirt Driver
+sparkTblIgnition\ Advance\ Table_Y=246
+CommSettingAlesLappyCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM1
+projectName=Alfa GTV 
+sensorFiltersAnalog\ sensor\ filters_width=589
+dwellSettingsDwell\ Settings_Y=255
+egoControlAFR/O2_height=420
+triggerSettingsTrigger\ Settings_width=415
+refTable_002_txtX2=4.0
+egoControlAFR/O2_width=396
+refTable_002_txtX1=1.0
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+firmwareDescription=Speeduino 2019.03-dev
+dwellSettingsDwell\ Settings_height=424
+sparkTblIgnition\ Advance\ Table_width=542
+CommSettingCom\ Port=/dev/ttyACM0
+sparkTblIgnition\ Advance\ Table_height=441
+mapCalCalibrate\ MAP_Y=190
+mapCalCalibrate\ MAP_X=492
+mapCalCalibrate\ MAP_width=411
+CommSettingAlesLappyCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+sparkSettingsSpark\ Settings_Y=270
+CommSettingAlesLappyCommDriver.controllerInterfaceId=RS232 Serial Interface
+projectDescription=
+sensorFiltersAnalog\ sensor\ filters_X=403
+sensorFiltersAnalog\ sensor\ filters_Y=179
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingBaud\ Rate=115200

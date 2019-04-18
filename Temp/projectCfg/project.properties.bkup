@@ -1,20 +1,28 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Thu Jan 10 23:13:53 CET 2019
-#Thu Jan 10 23:13:53 CET 2019
-triggerSettingsTrigger\ Settings_width=434
+#Last Saved on: Fri Feb 22 22:05:55 CET 2019
+#Fri Feb 22 22:05:55 CET 2019
+Triggers.ActiveTriggers=
+sparkSettingsSpark\ Settings_width=694
+ecuSettings=AFR|CAN_COMMANDS_OFF|CELSIUS|SPEED_DENSITY|enablehardware_test_OFF|resetcontrol_standard|
+canId=0
+sparkSettingsSpark\ Settings_height=357
 reset_controlReset\ Control_height=175
 triggerSettingsTrigger\ Settings_Y=332
+projectDescription=Temporary Project for viewing msq files
 triggerSettingsTrigger\ Settings_X=743
-Triggers.ActiveTriggers=
-reset_controlReset\ Control_width=380
-canId=0
+projectName=Temp
+stagingTableDialogStaged\ injection_height=426
+sparkSettingsSpark\ Settings_Y=362
+sparkSettingsSpark\ Settings_X=561
+ecuConfigFile=speeduino.ini
+stagingTableDialogStaged\ injection_width=380
 reset_controlReset\ Control_Y=497
 reset_controlReset\ Control_X=770
-projectDescription=Temporary Project for viewing msq files
 triggerSettingsTrigger\ Settings_height=506
-ecuConfigFile=speeduino.ini
-tuneFileDir=/Users/ale/Downloads/Speeduino-Aug18-2/reference/Base Tunes
+stagingTableDialogStaged\ injection_Y=327
+stagingTableDialogStaged\ injection_X=718
+reset_controlReset\ Control_width=380
 dashBoardFile=/dashboard//dashboard.dash
-ecuSettings=AFR|CAN_COMMANDS_OFF|CELSIUS|SPEED_DENSITY|enablehardware_test_OFF|resetcontrol_standard|
-projectName=Temp
+tuneFileDir=/Users/ale/Downloads/Speeduino-Aug18-2/reference/Base Tunes
+triggerSettingsTrigger\ Settings_width=434
