@@ -1,11 +1,11 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Thu Feb 28 18:40:13 CET 2019
-#Thu Feb 28 18:40:13 CET 2019
+#Last Saved on: Sat Mar 16 10:34:46 CET 2019
+#Sat Mar 16 10:34:46 CET 2019
 dwellSettingsDwell\ Settings_X=770
 stagingTableDialogStaged\ injection_X=770
-stagingTableDialogStaged\ injection_Y=372
 vvtSettingsVVT\ Control_width=380
+stagingTableDialogStaged\ injection_Y=372
 tachoTacho_width=380
 sparkMap3DIgnition\ Advance\ Table_height=527
 LaunchControlLaunch\ Control\ /\ Flat\ shift_width=380
@@ -15,16 +15,16 @@ dwell_correction_curveDwell\ voltage\ correction_Y=439
 reset_controlReset\ Control_width=380
 triggerSettingsTrigger\ Settings_height=521
 sparkSettingsSpark\ Settings_height=357
-CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
 CommSettingMacBook-Pro.localCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
 CommSettingAlesLappyCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 warmupWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_width=610
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 sparkSettingsSpark\ Settings_width=641
 engine_constantsEngine\ Constants_X=685
 reset_controlReset\ Control_Y=497
-reset_controlReset\ Control_X=770
 engine_constantsEngine\ Constants_Y=345
+reset_controlReset\ Control_X=770
 fanSettingsFan\ Settings_width=380
 accelEnrichmentsAcceleration\ Enrichment_Y=327
 accelEnrichmentsAcceleration\ Enrichment_X=770
