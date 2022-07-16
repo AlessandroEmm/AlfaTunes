@@ -1,0 +1,31 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sat Dec 18 11:13:07 CET 2021
+#Sat Dec 18 11:13:07 CET 2021
+commPort=COM1
+ecuSettings=AFR|CAN_COMMANDS_OFF|CELSIUS|enablehardware_test|resetcontrol_standard|
+CommSettingMacBook-von-Alessandro.localCommDriver.controllerInterfaceId=RS232 Serial Interface
+canId=0
+CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
+selectedComDriver=Multi Interface MegaSquirt Driver
+oil_pressure_prot_curve_Set\ X\ Axis\ Minimum=0.0
+projectDescription=
+projectName=MyCar
+RevLimiterSEngine\ Protection\ and\ Limiters_width=1303
+RevLimiterSEngine\ Protection\ and\ Limiters_Y=250
+RevLimiterSEngine\ Protection\ and\ Limiters_X=69
+CommSettingCom\ Port=COM1
+ecuConfigFile=mainController.ini
+CommSettingBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+RevLimiterSEngine\ Protection\ and\ Limiters_height=400
+useCommonTuneViewDir=false
+firmwareDescription=Speeduino 2021.08
+useCommonDashboardDir=false
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/tty.Speedy
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
+CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/tty.Speedy
+CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200

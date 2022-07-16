@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Fri Jul 15 21:10:43 CEST 2022"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Thu Jun 23 20:02:19 CEST 2022"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2022.04-dev" nPages="15" signature="speeduino 202204-dev"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -437,12 +437,10 @@
          100.0 
          100.0 
       </pcVariable>
-<pcVariable name="prgm_out_selection">"1"</pcVariable>
 <pcVariable digits="0" name="fuelLoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="ignLoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="fuel2LoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="ign2LoadMax">255.0</pcVariable>
-<pcVariable name="prgm_out00Alias">lambda</pcVariable>
 <pcVariable name="tsSpeedSource">"GPS Speed"</pcVariable>
 <pcVariable digits="0" name="tsPrimaryInjectorSize">0.0</pcVariable>
 <pcVariable name="tsInjSizeConstant">"cc/min"</pcVariable>
@@ -474,13 +472,13 @@
 <constant cols="1" digits="0" name="wueRates" rows="10" units="%">
          180.0 
          175.0 
-         164.0 
-         139.0 
+         181.0 
+         146.0 
          107.0 
-         107.0 
+         108.0 
+         112.0 
          104.0 
-         104.0 
-         101.0 
+         102.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -499,7 +497,7 @@
 <constant name="display5">"RPM"</constant>
 <constant name="displayB1">"RPM"</constant>
 <constant name="displayB2">"RPM"</constant>
-<constant digits="1" name="reqFuel" units="ms">6.4</constant>
+<constant digits="1" name="reqFuel" units="ms">12.8</constant>
 <constant digits="0" name="divider">2.0</constant>
 <constant name="alternate">"Alternating"</constant>
 <constant name="multiplyMAP1">"No"</constant>
@@ -557,7 +555,7 @@
 <constant digits="0" name="EMAPMax" units="kpa">118.0</constant>
 <constant name="fanWhenOff">"Yes"</constant>
 <constant name="fanWhenCranking">"No"</constant>
-<constant name="useDwellMap">"No"</constant>
+<constant name="useDwellMap">"Yes"</constant>
 <constant name="fanEnable">"On/Off"</constant>
 <constant name="rtc_mode">"Off"</constant>
 <constant name="incorporateAFR">"No"</constant>
@@ -637,22 +635,22 @@
 </page>
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
-         40.0 29.0 29.0 30.0 40.0 62.0 86.0 140.0 148.0 146.0 144.0 144.0 144.0 144.0 144.0 168.0 
-         134.0 132.0 64.0 50.0 58.0 74.0 120.0 136.0 142.0 142.0 142.0 142.0 144.0 144.0 144.0 170.0 
-         122.0 114.0 84.0 72.0 68.0 102.0 132.0 128.0 134.0 134.0 136.0 136.0 136.0 138.0 138.0 138.0 
-         122.0 136.0 90.0 80.0 82.0 114.0 140.0 140.0 142.0 142.0 142.0 144.0 144.0 144.0 146.0 146.0 
-         124.0 142.0 110.0 84.0 94.0 94.0 106.0 132.0 134.0 134.0 134.0 134.0 136.0 136.0 136.0 138.0 
-         130.0 148.0 130.0 78.0 92.0 106.0 118.0 144.0 142.0 140.0 142.0 142.0 142.0 144.0 144.0 144.0 
-         134.0 152.0 126.0 80.0 88.0 116.0 140.0 152.0 150.0 148.0 148.0 150.0 150.0 152.0 152.0 152.0 
-         136.0 144.0 124.0 90.0 92.0 118.0 144.0 148.0 146.0 144.0 144.0 144.0 146.0 148.0 148.0 148.0 
-         140.0 130.0 124.0 108.0 110.0 130.0 160.0 158.0 154.0 150.0 152.0 152.0 154.0 154.0 156.0 156.0 
-         152.0 144.0 120.0 106.0 100.0 120.0 158.0 166.0 162.0 158.0 158.0 160.0 160.0 162.0 162.0 164.0 
-         150.0 158.0 114.0 96.0 108.0 126.0 152.0 174.0 170.0 166.0 166.0 166.0 168.0 170.0 170.0 170.0 
-         160.0 166.0 138.0 98.0 104.0 108.0 116.0 144.0 140.0 136.0 136.0 136.0 138.0 140.0 140.0 140.0 
-         170.0 180.0 166.0 136.0 120.0 104.0 138.0 156.0 152.0 150.0 150.0 150.0 152.0 154.0 154.0 156.0 
-         176.0 176.0 172.0 224.0 214.0 166.0 166.0 162.0 158.0 158.0 158.0 160.0 162.0 164.0 164.0 166.0 
-         202.0 202.0 202.0 208.0 220.0 212.0 202.0 196.0 196.0 196.0 196.0 198.0 200.0 202.0 202.0 202.0 
-         202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 202.0 206.0 
+         20.0 20.0 17.0 15.0 20.0 31.0 43.0 70.0 74.0 73.0 72.0 72.0 72.0 72.0 72.0 84.0 
+         67.0 66.0 32.0 25.0 29.0 37.0 60.0 68.0 71.0 71.0 71.0 71.0 72.0 72.0 72.0 85.0 
+         61.0 57.0 42.0 36.0 34.0 51.0 66.0 64.0 67.0 67.0 68.0 68.0 68.0 69.0 69.0 69.0 
+         61.0 68.0 45.0 40.0 41.0 57.0 70.0 70.0 71.0 71.0 71.0 72.0 72.0 72.0 73.0 73.0 
+         62.0 71.0 55.0 42.0 47.0 47.0 53.0 66.0 67.0 67.0 67.0 67.0 68.0 68.0 68.0 69.0 
+         65.0 74.0 65.0 39.0 46.0 53.0 59.0 72.0 71.0 70.0 71.0 71.0 71.0 72.0 72.0 72.0 
+         67.0 76.0 63.0 40.0 44.0 58.0 70.0 76.0 75.0 74.0 74.0 75.0 75.0 76.0 76.0 76.0 
+         68.0 72.0 62.0 45.0 46.0 59.0 72.0 74.0 73.0 72.0 72.0 72.0 73.0 74.0 74.0 74.0 
+         70.0 65.0 62.0 54.0 55.0 65.0 80.0 79.0 77.0 75.0 76.0 76.0 77.0 77.0 78.0 78.0 
+         76.0 72.0 60.0 53.0 50.0 60.0 79.0 83.0 81.0 79.0 79.0 80.0 80.0 81.0 81.0 82.0 
+         75.0 79.0 57.0 48.0 54.0 63.0 76.0 87.0 85.0 83.0 83.0 83.0 84.0 85.0 85.0 85.0 
+         80.0 83.0 69.0 49.0 52.0 54.0 58.0 72.0 70.0 68.0 68.0 68.0 69.0 70.0 70.0 70.0 
+         85.0 90.0 83.0 68.0 60.0 52.0 69.0 78.0 76.0 75.0 75.0 75.0 76.0 77.0 77.0 78.0 
+         88.0 88.0 86.0 112.0 107.0 83.0 83.0 81.0 79.0 79.0 79.0 80.0 81.0 82.0 82.0 83.0 
+         101.0 101.0 101.0 104.0 110.0 106.0 101.0 98.0 98.0 98.0 98.0 99.0 100.0 101.0 101.0 101.0 
+         101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 101.0 103.0 
       </constant>
 <constant cols="1" digits="0" name="rpmBins" rows="16" units="RPM">
          500.0 
@@ -748,11 +746,11 @@
       </constant>
 </page>
 <page number="3" size="128">
-<constant digits="0" name="TrigAng" units="Deg">51.0</constant>
+<constant digits="0" name="TrigAng" units="Deg">46.0</constant>
 <constant digits="0" name="FixAng" units="Deg">14.0</constant>
 <constant digits="0" name="CrankAng" units="Deg">12.0</constant>
 <constant digits="0" name="TrigAngMul">0.0</constant>
-<constant name="TrigEdge">"RISING"</constant>
+<constant name="TrigEdge">"FALLING"</constant>
 <constant name="TrigSpeed">"Crank Speed"</constant>
 <constant name="IgInv">"Going Low"</constant>
 <constant name="TrigPattern">"Missing Tooth"</constant>
@@ -768,10 +766,10 @@
 <constant digits="0" name="SkipCycles" units="cycles">0.0</constant>
 <constant name="boostType">"Open Loop"</constant>
 <constant name="useDwellLim">"On"</constant>
-<constant name="sparkMode">"Wasted Spark"</constant>
+<constant name="sparkMode">"Wasted COP"</constant>
 <constant name="TrigFilter">"Off"</constant>
 <constant name="ignCranklock">"Off"</constant>
-<constant digits="1" name="dwellcrank" units="ms">3.6</constant>
+<constant digits="1" name="dwellcrank" units="ms">6.0</constant>
 <constant digits="1" name="dwellrun" units="ms">3.0</constant>
 <constant digits="0" name="numTeeth" units="teeth">60.0</constant>
 <constant digits="0" name="missingTeeth" units="teeth">2.0</constant>
@@ -975,7 +973,7 @@
       </constant>
 </page>
 <page number="5" size="128">
-<constant name="egoAlgorithm">"Simple"</constant>
+<constant name="egoAlgorithm">"No correction"</constant>
 <constant name="egoType">"Wide Band"</constant>
 <constant name="boostEnabled">"Off"</constant>
 <constant name="vvtEnabled">"Off"</constant>
@@ -1142,7 +1140,7 @@
 <constant name="fanInv">"No"</constant>
 <constant name="fanUnused">"Off"</constant>
 <constant name="fanPin">"11"</constant>
-<constant digits="0" name="fanSP" units="C">82.0</constant>
+<constant digits="0" name="fanSP" units="C">85.0</constant>
 <constant digits="0" name="fanHyster" units="C">2.0</constant>
 <constant digits="0" name="fanFreq" units="Hz">6.0</constant>
 <constant cols="1" digits="0" name="fanPWMBins" rows="4" units="C">
@@ -2091,7 +2089,7 @@
       </constant>
 </page>
 <page number="12" size="128">
-<constant name="outputInverted0">"Active high"</constant>
+<constant name="outputInverted0">"Active low"</constant>
 <constant name="outputInverted1">"Active low"</constant>
 <constant name="outputInverted2">"Active low"</constant>
 <constant name="outputInverted3">"Active low"</constant>
@@ -2108,7 +2106,7 @@
 <constant name="kindOfLimiting6">"Maximum"</constant>
 <constant name="kindOfLimiting7">"Maximum"</constant>
 <constant cols="1" digits="0" name="outputPin" rows="8">
-         9.0 
+         0.0 
          0.0 
          0.0 
          0.0 
@@ -2117,7 +2115,7 @@
          0.0 
          0.0 
       </constant>
-<constant name="outputPin0">"9"</constant>
+<constant name="outputPin0">"Disabled"</constant>
 <constant name="outputPin1">"Disabled"</constant>
 <constant name="outputPin2">"Disabled"</constant>
 <constant name="outputPin3">"Disabled"</constant>
@@ -2126,7 +2124,7 @@
 <constant name="outputPin6">"Disabled"</constant>
 <constant name="outputPin7">"Disabled"</constant>
 <constant cols="1" digits="1" name="outputDelay" rows="8" units="S">
-         10.0 
+         25.5 
          25.5 
          25.5 
          25.5 
@@ -2136,7 +2134,7 @@
          25.5 
       </constant>
 <constant cols="1" digits="0" name="firstDataIn" rows="8">
-         14.0 
+         255.0 
          255.0 
          255.0 
          255.0 
@@ -2145,9 +2143,8 @@
          255.0 
          255.0 
       </constant>
-<constant name="firstDataIn0">"RPM"</constant>
 <constant cols="1" digits="0" name="secondDataIn" rows="8">
-         0.0 
+         255.0 
          255.0 
          255.0 
          255.0 
@@ -2156,7 +2153,6 @@
          255.0 
          255.0 
       </constant>
-<constant name="secondDataIn0">"seconds"</constant>
 <constant cols="1" digits="1" name="outputTimeLimit" rows="8" units="S">
          0.0 
          0.0 
@@ -2178,7 +2174,7 @@
          255.0 
       </constant>
 <constant cols="1" digits="0" name="firstTarget" rows="8">
-         500.0 
+         -1.0 
          -1.0 
          -1.0 
          -1.0 
@@ -2197,9 +2193,9 @@
          -1.0 
          -1.0 
       </constant>
-<constant name="firstCompType0">"&gt; (greater)"</constant>
+<constant name="firstCompType0">"== (equal)"</constant>
 <constant name="secondCompType0">"== (equal)"</constant>
-<constant name="bitwise0">"Disabled"</constant>
+<constant name="bitwise0">"XOR"</constant>
 <constant name="firstCompType1">"== (equal)"</constant>
 <constant name="secondCompType1">"== (equal)"</constant>
 <constant name="bitwise1">"XOR"</constant>
@@ -2538,8 +2534,8 @@
       </constant>
 </page>
 <settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="enablehardware_test_OFF" value="enablehardware_test_OFF"/>
 <setting name="NEW_COMMS" value="NEW_COMMS"/>
-<setting name="enablehardware_test" value="enablehardware_test"/>
 <setting name="CAN_COMMANDS_OFF" value="CAN_COMMANDS_OFF"/>
 <setting name="CELSIUS" value="CELSIUS"/>
 <setting name="resetcontrol_standard" value="resetcontrol_standard"/>

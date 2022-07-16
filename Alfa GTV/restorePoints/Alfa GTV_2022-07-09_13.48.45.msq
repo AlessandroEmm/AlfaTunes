@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Fri Jul 15 21:10:43 CEST 2022"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Sat Jul 09 13:48:45 CEST 2022"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2022.04-dev" nPages="15" signature="speeduino 202204-dev"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -474,13 +474,13 @@
 <constant cols="1" digits="0" name="wueRates" rows="10" units="%">
          180.0 
          175.0 
-         164.0 
-         139.0 
+         181.0 
+         146.0 
          107.0 
-         107.0 
+         108.0 
+         112.0 
          104.0 
-         104.0 
-         101.0 
+         102.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -911,7 +911,7 @@
 <constant digits="0" name="engineProtectMaxRPM" units="rpm">15000.0</constant>
 <constant digits="0" name="vvt2CL0DutyAng" units="deg">-27756.0</constant>
 <constant name="vvt2PWMdir">"Advance"</constant>
-<constant name="inj4CylPairing">"1+4 &amp; 2+3"</constant>
+<constant name="inj4CylPairing">"1+3 &amp; 2+4"</constant>
 <constant name="unusedBits4_123">"0"</constant>
 <constant digits="0" name="ANGLEFILTER_VVT" units="%">0.0</constant>
 <constant digits="0" name="FILTER_FLEX" units="%">0.0</constant>
