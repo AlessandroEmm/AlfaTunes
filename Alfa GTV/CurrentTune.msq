@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Thu Jul 28 20:40:48 CEST 2022"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Thu Aug 11 15:03:36 CEST 2022"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2022.04-dev" nPages="15" signature="speeduino 202204-dev"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -26,15 +26,15 @@
          0.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="wueRecommended" rows="10" units="%">
-         180.0 
-         175.0 
-         151.0 
-         128.0 
-         120.0 
-         116.0 
-         113.0 
-         104.0 
-         100.0 
+         133.0 
+         131.0 
+         129.0 
+         127.0 
+         124.0 
+         134.0 
+         121.0 
+         115.0 
+         109.0 
          100.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="boardFuelOutputs" rows="128" units=" ">
@@ -469,18 +469,18 @@
 <constant name="battVCorMode">"Whole PW"</constant>
 <constant name="SoftLimitMode">"Fixed"</constant>
 <constant name="useTachoSweep">"Off"</constant>
-<constant name="aeApplyMode">"PW Multiplier"</constant>
+<constant name="aeApplyMode">"PW Adder"</constant>
 <constant name="multiplyMAP">"Off"</constant>
 <constant cols="1" digits="0" name="wueRates" rows="10" units="%">
-         180.0 
-         175.0 
-         151.0 
-         128.0 
-         120.0 
-         116.0 
-         113.0 
-         104.0 
-         100.0 
+         133.0 
+         131.0 
+         129.0 
+         127.0 
+         124.0 
+         134.0 
+         121.0 
+         115.0 
+         109.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -489,7 +489,7 @@
 <constant name="tachoDiv">"Normal"</constant>
 <constant digits="0" name="tachoDuration" units="ms">3.0</constant>
 <constant digits="0" name="maeThresh" units="kPa/s">70.0</constant>
-<constant digits="0" name="taeThresh" units="%/s">70.0</constant>
+<constant digits="0" name="taeThresh" units="%/s">20.0</constant>
 <constant digits="0" name="aeTime" units="ms">200.0</constant>
 <constant name="display">"Unused"</constant>
 <constant name="display1">"VE"</constant>
@@ -537,7 +537,7 @@
 <constant digits="0" name="tpsMax" units="ADC">189.0</constant>
 <constant digits="0" name="mapMin" units="kpa">10.0</constant>
 <constant digits="0" name="mapMax" units="kpa">260.0</constant>
-<constant digits="0" name="fpPrime" units="s">6.0</constant>
+<constant digits="0" name="fpPrime" units="s">4.0</constant>
 <constant digits="1" name="stoich" units=":1">14.7</constant>
 <constant digits="0" name="oddfire2" units="deg">0.0</constant>
 <constant digits="0" name="oddfire3" units="deg">0.0</constant>
@@ -563,7 +563,7 @@
 <constant name="incorporateAFR">"No"</constant>
 <constant cols="1" digits="0" name="asePct" rows="4" units="%">
          25.0 
-         0.0 
+         9.0 
          0.0 
          0.0 
       </constant>
@@ -597,8 +597,8 @@
 <constant name="idleAdvEnabled">"Added"</constant>
 <constant name="idleAdvAlgorithm">"TPS"</constant>
 <constant name="idleAdvDelay">"4.0"</constant>
-<constant digits="0" name="idleAdvRPM" units="rpm">1400.0</constant>
-<constant digits="1" name="idleAdvTPS" units="%">5.0</constant>
+<constant digits="0" name="idleAdvRPM" units="rpm">1000.0</constant>
+<constant digits="1" name="idleAdvTPS" units="%">0.5</constant>
 <constant cols="1" digits="0" name="injAngRPM" rows="4" units="RPM">
          500.0 
          2000.0 
@@ -637,22 +637,22 @@
 </page>
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
-         27.0 33.0 36.0 27.0 20.0 18.0 19.0 63.0 69.0 69.0 68.0 68.0 68.0 68.0 68.0 66.0 
-         39.0 34.0 29.0 26.0 23.0 20.0 22.0 64.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0 74.0 
-         44.0 41.0 35.0 32.0 25.0 20.0 24.0 65.0 74.0 74.0 73.0 73.0 74.0 74.0 74.0 83.0 
-         59.0 43.0 35.0 33.0 29.0 24.0 27.0 65.0 76.0 76.0 76.0 76.0 77.0 77.0 77.0 91.0 
-         72.0 50.0 42.0 37.0 35.0 27.0 29.0 66.0 78.0 78.0 78.0 78.0 80.0 80.0 80.0 99.0 
-         82.0 52.0 43.0 40.0 38.0 30.0 32.0 67.0 75.0 76.0 75.0 75.0 76.0 77.0 77.0 87.0 
-         61.0 58.0 46.0 44.0 41.0 34.0 35.0 67.0 71.0 74.0 72.0 72.0 72.0 74.0 74.0 74.0 
-         67.0 69.0 54.0 48.0 44.0 38.0 37.0 61.0 75.0 76.0 75.0 76.0 76.0 77.0 78.0 78.0 
-         61.0 73.0 62.0 50.0 45.0 41.0 38.0 54.0 78.0 77.0 78.0 80.0 80.0 80.0 82.0 82.0 
-         85.0 77.0 64.0 54.0 48.0 47.0 38.0 49.0 70.0 67.0 70.0 70.0 72.0 72.0 72.0 74.0 
-         81.0 87.0 68.0 60.0 57.0 53.0 46.0 70.0 78.0 76.0 78.0 78.0 78.0 80.0 80.0 80.0 
-         84.0 96.0 78.0 67.0 64.0 61.0 57.0 87.0 86.0 84.0 84.0 86.0 86.0 88.0 88.0 88.0 
-         86.0 103.0 86.0 72.0 71.0 59.0 52.0 75.0 82.0 80.0 80.0 80.0 82.0 84.0 84.0 84.0 
-         73.0 106.0 82.0 77.0 73.0 59.0 54.0 60.0 90.0 86.0 88.0 88.0 90.0 90.0 92.0 92.0 
-         87.0 105.0 87.0 83.0 80.0 64.0 56.0 68.0 98.0 94.0 94.0 96.0 96.0 98.0 98.0 100.0 
-         101.0 101.0 99.0 98.0 92.0 78.0 69.0 79.0 106.0 102.0 102.0 102.0 104.0 106.0 106.0 106.0 
+         27.0 28.0 29.0 26.0 20.0 18.0 19.0 63.0 69.0 69.0 68.0 68.0 68.0 68.0 68.0 66.0 
+         39.0 32.0 27.0 24.0 23.0 20.0 22.0 64.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0 74.0 
+         44.0 42.0 35.0 33.0 24.0 20.0 24.0 65.0 74.0 74.0 73.0 73.0 74.0 74.0 74.0 83.0 
+         59.0 42.0 36.0 33.0 27.0 23.0 27.0 65.0 76.0 76.0 76.0 76.0 77.0 77.0 77.0 91.0 
+         61.0 46.0 45.0 39.0 34.0 25.0 29.0 66.0 78.0 78.0 78.0 78.0 80.0 80.0 80.0 99.0 
+         71.0 46.0 45.0 42.0 37.0 32.0 32.0 67.0 75.0 76.0 75.0 75.0 76.0 77.0 77.0 87.0 
+         61.0 52.0 47.0 45.0 39.0 34.0 35.0 65.0 71.0 74.0 72.0 72.0 72.0 74.0 74.0 74.0 
+         67.0 67.0 54.0 48.0 42.0 34.0 36.0 59.0 75.0 76.0 75.0 76.0 76.0 77.0 78.0 78.0 
+         61.0 64.0 58.0 51.0 45.0 38.0 37.0 54.0 78.0 77.0 78.0 80.0 80.0 80.0 82.0 82.0 
+         85.0 72.0 67.0 56.0 49.0 47.0 37.0 49.0 70.0 67.0 70.0 70.0 72.0 72.0 72.0 74.0 
+         81.0 85.0 68.0 61.0 60.0 51.0 47.0 69.0 78.0 76.0 78.0 78.0 78.0 80.0 80.0 80.0 
+         84.0 90.0 65.0 62.0 63.0 56.0 56.0 87.0 86.0 84.0 84.0 86.0 86.0 88.0 88.0 88.0 
+         86.0 93.0 64.0 60.0 64.0 56.0 51.0 75.0 82.0 80.0 80.0 80.0 82.0 84.0 84.0 84.0 
+         73.0 96.0 76.0 77.0 71.0 58.0 52.0 59.0 90.0 86.0 88.0 88.0 90.0 90.0 92.0 92.0 
+         87.0 95.0 89.0 94.0 81.0 59.0 53.0 65.0 98.0 94.0 94.0 96.0 96.0 98.0 98.0 100.0 
+         90.0 91.0 102.0 88.0 67.0 49.0 47.0 61.0 84.0 80.0 80.0 80.0 82.0 84.0 84.0 84.0 
       </constant>
 <constant cols="1" digits="0" name="rpmBins" rows="16" units="RPM">
          700.0 
@@ -798,7 +798,7 @@
          -26.0 
          -13.0 
          7.0 
-         25.0 
+         24.0 
          37.0 
          49.0 
          60.0 
@@ -832,7 +832,7 @@
       </constant>
 <constant digits="0" name="dfcoRPM" units="RPM">1500.0</constant>
 <constant digits="0" name="dfcoHyster" units="RPM">200.0</constant>
-<constant digits="1" name="dfcoTPSThresh" units="%">1.0</constant>
+<constant digits="1" name="dfcoTPSThresh" units="%">0.5</constant>
 <constant name="ignBypassEnable">"Off"</constant>
 <constant name="ignBypassPin">"3"</constant>
 <constant name="ignBypassHiLo">"LOW"</constant>
@@ -846,7 +846,7 @@
 <constant cols="1" digits="0" name="cltAdvBins" rows="6" units="C">
          -12.0 
          1.0 
-         16.0 
+         17.0 
          29.0 
          44.0 
          84.0 
@@ -894,7 +894,7 @@
       </constant>
 <constant cols="1" digits="0" name="idleAdvBins" rows="6" units="RPM">
          -200.0 
-         -100.0 
+         -70.0 
          0.0 
          100.0 
          200.0 
@@ -911,7 +911,7 @@
 <constant digits="0" name="engineProtectMaxRPM" units="rpm">6000.0</constant>
 <constant digits="0" name="vvt2CL0DutyAng" units="deg">-27756.0</constant>
 <constant name="vvt2PWMdir">"Advance"</constant>
-<constant name="inj4CylPairing">"1+3 &amp; 2+4"</constant>
+<constant name="inj4CylPairing">"1+4 &amp; 2+3"</constant>
 <constant name="unusedBits4_123">"0"</constant>
 <constant digits="0" name="ANGLEFILTER_VVT" units="%">0.0</constant>
 <constant digits="0" name="FILTER_FLEX" units="%">0.0</constant>
@@ -1694,14 +1694,14 @@
 <page number="9" size="192">
 <constant cols="1" digits="0" name="crankingEnrichBins" rows="4" units="C">
          -40.0 
-         0.0 
-         30.0 
+         -1.0 
+         29.0 
          70.0 
       </constant>
 <constant cols="1" digits="0" name="crankingEnrichValues" rows="4" units="%">
          125.0 
-         115.0 
-         105.0 
+         145.0 
+         125.0 
          100.0 
       </constant>
 <constant name="rotaryType">"FC"</constant>
@@ -1946,17 +1946,17 @@
 </page>
 <page number="10" size="288">
 <constant cols="16" digits="0" name="veTable2" rows="16" units="%">
-         134.0 125.0 112.0 108.0 102.0 96.0 76.0 81.0 116.0 112.0 112.0 112.0 114.0 116.0 116.0 116.0 
-         138.0 138.0 119.0 117.0 111.0 105.0 85.0 83.0 101.0 97.0 97.0 97.0 99.0 101.0 101.0 101.0 
-         144.0 138.0 127.0 125.0 118.0 111.0 95.0 93.0 106.0 103.0 103.0 103.0 105.0 107.0 107.0 108.0 
-         150.0 139.0 136.0 133.0 124.0 117.0 104.0 104.0 111.0 109.0 109.0 109.0 111.0 113.0 113.0 114.0 
-         151.0 144.0 138.0 139.0 129.0 120.0 110.0 111.0 119.0 117.0 117.0 118.0 120.0 122.0 122.0 124.0 
-         151.0 151.0 136.0 144.0 134.0 122.0 113.0 116.0 129.0 128.0 128.0 129.0 131.0 133.0 133.0 135.0 
-         150.0 159.0 134.0 148.0 138.0 124.0 116.0 121.0 140.0 139.0 139.0 140.0 142.0 144.0 144.0 146.0 
-         149.0 166.0 132.0 153.0 142.0 126.0 119.0 126.0 150.0 149.0 149.0 151.0 153.0 155.0 155.0 157.0 
-         148.0 172.0 133.0 159.0 147.0 130.0 125.0 132.0 158.0 158.0 158.0 160.0 162.0 164.0 164.0 166.0 
-         145.0 171.0 147.0 167.0 159.0 146.0 139.0 142.0 160.0 160.0 160.0 162.0 164.0 166.0 166.0 167.0 
-         143.0 169.0 160.0 176.0 170.0 162.0 154.0 152.0 161.0 161.0 161.0 163.0 165.0 167.0 167.0 167.0 
+         102.0 104.0 98.0 103.0 90.0 78.0 68.0 68.0 116.0 112.0 112.0 112.0 114.0 116.0 116.0 116.0 
+         106.0 109.0 98.0 96.0 110.0 98.0 82.0 81.0 101.0 97.0 97.0 97.0 99.0 101.0 101.0 101.0 
+         112.0 109.0 101.0 110.0 119.0 104.0 93.0 97.0 106.0 103.0 103.0 103.0 105.0 107.0 107.0 108.0 
+         118.0 110.0 110.0 104.0 119.0 113.0 94.0 94.0 111.0 109.0 109.0 109.0 111.0 113.0 113.0 114.0 
+         119.0 115.0 112.0 110.0 131.0 118.0 102.0 105.0 119.0 117.0 117.0 118.0 120.0 122.0 122.0 124.0 
+         119.0 122.0 110.0 115.0 134.0 113.0 110.0 116.0 129.0 128.0 128.0 129.0 131.0 133.0 133.0 135.0 
+         118.0 130.0 108.0 119.0 138.0 112.0 109.0 121.0 140.0 139.0 139.0 140.0 142.0 144.0 144.0 146.0 
+         117.0 137.0 106.0 124.0 142.0 129.0 119.0 126.0 150.0 149.0 149.0 151.0 153.0 155.0 155.0 157.0 
+         116.0 143.0 107.0 130.0 147.0 130.0 125.0 132.0 158.0 158.0 158.0 160.0 162.0 164.0 164.0 166.0 
+         113.0 142.0 121.0 138.0 159.0 146.0 139.0 142.0 160.0 160.0 160.0 162.0 164.0 166.0 166.0 167.0 
+         111.0 140.0 160.0 176.0 170.0 162.0 154.0 152.0 161.0 161.0 161.0 163.0 165.0 167.0 167.0 167.0 
          168.0 168.0 174.0 184.0 182.0 178.0 168.0 162.0 162.0 162.0 162.0 164.0 166.0 168.0 168.0 168.0 
          168.0 168.0 173.0 180.0 179.0 176.0 168.0 164.0 164.0 164.0 164.0 165.0 167.0 168.0 168.0 169.0 
          168.0 168.0 171.0 176.0 175.0 173.0 168.0 165.0 165.0 165.0 165.0 166.0 167.0 168.0 168.0 170.0 
@@ -2546,6 +2546,7 @@
 <setting name="AFR" value="AFR"/>
 </settings>
 <userComments Comment="These are user comments that can be related to a particular setting or dialog.">
+<userComment name="taeThresh" value=""/>
 <userComment name="egoLimit" value=""/>
 <userComment name="TrigEdgeSec" value=""/>
 <userComment name="cltAdvValues" value=""/>
