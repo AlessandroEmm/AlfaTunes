@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Thu Aug 18 18:46:38 CEST 2022"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Wed Aug 17 18:15:05 CEST 2022"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2022.04-dev" nPages="15" signature="speeduino 202204-dev"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -26,15 +26,15 @@
          0.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="wueRecommended" rows="10" units="%">
-         116.0 
-         233.0 
-         195.0 
-         184.0 
-         152.0 
-         125.0 
-         104.0 
-         105.0 
-         107.0 
+         139.0 
+         139.0 
+         139.0 
+         139.0 
+         139.0 
+         142.0 
+         159.0 
+         149.0 
+         134.0 
          100.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="boardFuelOutputs" rows="128" units=" ">
@@ -472,15 +472,15 @@
 <constant name="aeApplyMode">"PW Adder"</constant>
 <constant name="multiplyMAP">"Off"</constant>
 <constant cols="1" digits="0" name="wueRates" rows="10" units="%">
-         116.0 
-         233.0 
-         195.0 
-         184.0 
-         152.0 
-         125.0 
-         104.0 
-         105.0 
-         107.0 
+         139.0 
+         139.0 
+         139.0 
+         139.0 
+         139.0 
+         142.0 
+         159.0 
+         149.0 
+         134.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -509,10 +509,10 @@
 <constant name="indInjAng">"Enabled"</constant>
 <constant digits="1" name="injOpen" units="ms">0.7</constant>
 <constant cols="1" digits="0" name="injAng" rows="4" units="deg">
-         380.0 
-         375.0 
-         370.0 
-         370.0 
+         310.0 
+         320.0 
+         355.0 
+         355.0 
       </constant>
 <constant name="mapSample">"Instantaneous"</constant>
 <constant name="twoStroke">"Four-stroke"</constant>
@@ -637,22 +637,22 @@
 </page>
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
-         29.0 29.0 29.0 32.0 35.0 20.0 18.0 19.0 24.0 48.0 64.0 67.0 69.0 68.0 68.0 66.0 
-         39.0 33.0 31.0 37.0 34.0 22.0 18.0 16.0 21.0 48.0 65.0 69.0 71.0 71.0 71.0 74.0 
-         44.0 40.0 37.0 44.0 40.0 22.0 20.0 19.0 24.0 48.0 64.0 71.0 74.0 73.0 74.0 83.0 
-         59.0 40.0 36.0 43.0 39.0 22.0 19.0 19.0 25.0 45.0 60.0 71.0 76.0 76.0 77.0 91.0 
-         61.0 46.0 44.0 50.0 47.0 30.0 23.0 21.0 27.0 46.0 61.0 72.0 78.0 78.0 80.0 99.0 
-         71.0 48.0 49.0 53.0 51.0 36.0 32.0 26.0 29.0 45.0 57.0 69.0 76.0 75.0 76.0 87.0 
-         61.0 48.0 51.0 57.0 53.0 41.0 36.0 29.0 32.0 45.0 55.0 66.0 74.0 72.0 72.0 74.0 
-         67.0 58.0 55.0 59.0 57.0 46.0 39.0 32.0 35.0 43.0 52.0 67.0 76.0 76.0 76.0 78.0 
-         61.0 60.0 56.0 61.0 60.0 49.0 42.0 35.0 36.0 43.0 52.0 69.0 77.0 79.0 80.0 82.0 
-         85.0 72.0 63.0 66.0 64.0 53.0 43.0 36.0 37.0 42.0 49.0 63.0 67.0 70.0 72.0 74.0 
-         81.0 76.0 68.0 69.0 68.0 56.0 48.0 40.0 41.0 45.0 52.0 69.0 76.0 78.0 78.0 80.0 
-         84.0 87.0 75.0 76.0 76.0 63.0 52.0 42.0 43.0 48.0 56.0 76.0 84.0 85.0 86.0 88.0 
-         86.0 94.0 81.0 82.0 84.0 73.0 53.0 48.0 43.0 46.0 52.0 71.0 80.0 80.0 82.0 84.0 
-         73.0 107.0 92.0 85.0 85.0 75.0 62.0 50.0 48.0 47.0 53.0 77.0 86.0 88.0 90.0 92.0 
-         87.0 108.0 96.0 91.0 87.0 70.0 55.0 54.0 48.0 51.0 59.0 85.0 94.0 95.0 96.0 100.0 
-         90.0 98.0 99.0 92.0 88.0 66.0 49.0 51.0 45.0 49.0 57.0 75.0 80.0 80.0 82.0 84.0 
+         27.0 31.0 25.0 22.0 22.0 20.0 18.0 19.0 24.0 48.0 64.0 67.0 69.0 68.0 68.0 66.0 
+         39.0 33.0 27.0 24.0 18.0 16.0 15.0 16.0 21.0 48.0 65.0 69.0 71.0 71.0 71.0 74.0 
+         44.0 40.0 37.0 31.0 27.0 19.0 17.0 19.0 24.0 48.0 64.0 71.0 74.0 73.0 74.0 83.0 
+         59.0 40.0 36.0 30.0 26.0 19.0 16.0 19.0 25.0 45.0 60.0 71.0 76.0 76.0 77.0 91.0 
+         61.0 46.0 44.0 37.0 34.0 30.0 23.0 21.0 27.0 46.0 61.0 72.0 78.0 78.0 80.0 99.0 
+         71.0 48.0 49.0 40.0 38.0 36.0 32.0 26.0 29.0 45.0 57.0 69.0 76.0 75.0 76.0 87.0 
+         61.0 48.0 51.0 44.0 40.0 41.0 36.0 29.0 32.0 45.0 55.0 66.0 74.0 72.0 72.0 74.0 
+         67.0 58.0 55.0 46.0 44.0 46.0 39.0 32.0 35.0 43.0 52.0 67.0 76.0 76.0 76.0 78.0 
+         61.0 60.0 56.0 48.0 47.0 49.0 42.0 35.0 36.0 43.0 52.0 69.0 77.0 79.0 80.0 82.0 
+         85.0 72.0 63.0 53.0 51.0 53.0 43.0 36.0 37.0 42.0 49.0 63.0 67.0 70.0 72.0 74.0 
+         81.0 76.0 68.0 56.0 55.0 56.0 48.0 40.0 41.0 45.0 52.0 69.0 76.0 78.0 78.0 80.0 
+         84.0 87.0 75.0 63.0 63.0 63.0 52.0 42.0 43.0 48.0 56.0 76.0 84.0 85.0 86.0 88.0 
+         86.0 94.0 81.0 69.0 71.0 73.0 53.0 48.0 43.0 46.0 52.0 71.0 80.0 80.0 82.0 84.0 
+         73.0 107.0 92.0 72.0 72.0 75.0 62.0 50.0 48.0 47.0 53.0 77.0 86.0 88.0 90.0 92.0 
+         87.0 108.0 96.0 78.0 74.0 70.0 55.0 54.0 48.0 51.0 59.0 85.0 94.0 95.0 96.0 100.0 
+         90.0 98.0 99.0 79.0 75.0 66.0 49.0 51.0 45.0 49.0 57.0 75.0 80.0 80.0 82.0 84.0 
       </constant>
 <constant cols="1" digits="0" name="rpmBins" rows="16" units="RPM">
          700.0 
@@ -693,11 +693,11 @@
 </page>
 <page number="2" size="288">
 <constant cols="16" digits="0" name="advTable1" rows="16" units="deg">
-         11.0 11.0 11.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
-         11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
-         11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
-         11.0 12.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
-         11.0 12.0 15.0 16.0 23.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
+         11.0 11.0 12.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 34.0 34.0 35.0 35.0 36.0 35.0 
+         11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 34.0 34.0 35.0 35.0 36.0 35.0 
+         11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 32.0 32.0 33.0 35.0 
+         11.0 12.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 34.0 34.0 35.0 35.0 36.0 37.0 
+         11.0 12.0 15.0 16.0 23.0 25.0 28.0 30.0 32.0 33.0 34.0 34.0 35.0 35.0 36.0 37.0 
          11.0 12.0 17.0 17.0 23.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 34.0 
          11.0 12.0 17.0 17.0 23.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 34.0 
          11.0 12.0 17.0 17.0 23.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 34.0 
@@ -748,7 +748,7 @@
       </constant>
 </page>
 <page number="3" size="128">
-<constant digits="0" name="TrigAng" units="Deg">51.0</constant>
+<constant digits="0" name="TrigAng" units="Deg">-309.0</constant>
 <constant digits="0" name="FixAng" units="Deg">14.0</constant>
 <constant digits="0" name="CrankAng" units="Deg">12.0</constant>
 <constant digits="0" name="TrigAngMul">0.0</constant>
@@ -768,11 +768,11 @@
 <constant digits="0" name="SkipCycles" units="cycles">0.0</constant>
 <constant name="boostType">"Open Loop"</constant>
 <constant name="useDwellLim">"On"</constant>
-<constant name="sparkMode">"Sequential"</constant>
+<constant name="sparkMode">"Wasted Spark"</constant>
 <constant name="TrigFilter">"Off"</constant>
 <constant name="ignCranklock">"Off"</constant>
-<constant digits="1" name="dwellcrank" units="ms">3.0</constant>
-<constant digits="1" name="dwellrun" units="ms">2.3</constant>
+<constant digits="1" name="dwellcrank" units="ms">4.4</constant>
+<constant digits="1" name="dwellrun" units="ms">3.0</constant>
 <constant digits="0" name="numTeeth" units="teeth">60.0</constant>
 <constant digits="0" name="missingTeeth" units="teeth">2.0</constant>
 <constant digits="0" name="crankRPM" units="rpm">400.0</constant>
@@ -795,15 +795,15 @@
       </constant>
 <constant cols="1" digits="0" name="wueBins" rows="10" units="C">
          -40.0 
-         -19.0 
-         1.0 
+         -26.0 
+         -13.0 
          7.0 
          24.0 
          37.0 
-         52.0 
+         49.0 
          60.0 
-         64.0 
-         68.0 
+         69.0 
+         74.0 
       </constant>
 <constant digits="0" name="dwellLim" units="ms">5.0</constant>
 <constant cols="1" digits="0" name="dwellRates" rows="6" units="%">
@@ -2136,7 +2136,7 @@
          25.5 
       </constant>
 <constant cols="1" digits="0" name="firstDataIn" rows="8">
-         0.0 
+         14.0 
          255.0 
          255.0 
          255.0 
@@ -2145,7 +2145,7 @@
          255.0 
          255.0 
       </constant>
-<constant name="firstDataIn0">"seconds"</constant>
+<constant name="firstDataIn0">"RPM"</constant>
 <constant cols="1" digits="0" name="secondDataIn" rows="8">
          0.0 
          255.0 
@@ -2178,7 +2178,7 @@
          255.0 
       </constant>
 <constant cols="1" digits="0" name="firstTarget" rows="8">
-         10.0 
+         500.0 
          -1.0 
          -1.0 
          -1.0 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dsh xmlns="http://www.EFIAnalytics.com/:dsh">
-<bibliography author="TunerStudio 3.1.08 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2022, All Rights Reserved." writeDate="Tue Aug 16 22:37:41 CEST 2022"/>
+<bibliography author="TunerStudio 3.1.08 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2022, All Rights Reserved." writeDate="Wed Aug 17 17:47:15 CEST 2022"/>
 <versionInfo fileFormat="3.0" firmwareSignature="speeduino 202204-dev"/>
 <gaugeCluster antiAliasing="true" backgroundDitherColor="-8355712" clusterBackgroundColor="-16777216" clusterBackgroundImageFileName="" clusterBackgroundImageStyle="Tile" forceAspect="false" forceAspectHeight="9.0" forceAspectWidth="16.0">
 <dashComp type="Gauge">
@@ -12,7 +12,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -29,7 +29,7 @@
 <LowCriticalVP type="ValueProvider">300.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">600.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">rpmwarn</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">2301.0</HistoricalPeakValue>
 <LowCritical type="double">300.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -87,7 +87,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -104,7 +104,7 @@
 <LowCriticalVP type="ValueProvider">300.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">600.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">rpmwarn</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">2301.0</HistoricalPeakValue>
 <LowCritical type="double">300.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -162,7 +162,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -179,7 +179,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">90.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">5.0</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -237,7 +237,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -254,7 +254,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">90.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">5.0</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -312,7 +312,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">3</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -329,7 +329,7 @@
 <LowCriticalVP type="ValueProvider">1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">1.2</LowWarningVP>
 <HighWarningVP type="ValueProvider">20.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">3.237</HistoricalPeakValue>
 <LowCritical type="double">1.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -387,7 +387,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">3</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -404,7 +404,7 @@
 <LowCriticalVP type="ValueProvider">1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">1.2</LowWarningVP>
 <HighWarningVP type="ValueProvider">20.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">3.237</HistoricalPeakValue>
 <LowCritical type="double">1.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -462,7 +462,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">1</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -479,7 +479,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">-1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">70.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">5.724094999999999</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -537,7 +537,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">1</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -554,7 +554,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">-1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">70.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">5.724094999999999</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -612,7 +612,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -629,7 +629,7 @@
 <LowCriticalVP type="ValueProvider">0.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">20.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">mapwarn</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">96.0</HistoricalPeakValue>
 <LowCritical type="double">0.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -687,7 +687,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -704,7 +704,7 @@
 <LowCriticalVP type="ValueProvider">0.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">20.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">mapwarn</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">96.0</HistoricalPeakValue>
 <LowCritical type="double">0.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -762,7 +762,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -779,7 +779,7 @@
 <LowCriticalVP type="ValueProvider">-15.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">0.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">-40.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">21.0</HistoricalPeakValue>
 <LowCritical type="double">-15.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -837,7 +837,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -854,7 +854,7 @@
 <LowCriticalVP type="ValueProvider">-15.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">0.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">-40.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">21.0</HistoricalPeakValue>
 <LowCritical type="double">-15.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -912,7 +912,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -929,7 +929,7 @@
 <LowCriticalVP type="ValueProvider">-15.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">0.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">-40.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">75.0</HistoricalPeakValue>
 <LowCritical type="double">-15.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -987,7 +987,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">0.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -1004,7 +1004,7 @@
 <LowCriticalVP type="ValueProvider">-15.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">0.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">-40.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">75.0</HistoricalPeakValue>
 <LowCritical type="double">-15.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
@@ -1062,7 +1062,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">80</ShortestSize>
+<ShortestSize type="int">75</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">50.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -1079,7 +1079,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">-1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">151.0</HighWarningVP>
-<HistoricalPeakValue type="double">50.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">1</BorderWidth>
 <CriticalColor alpha="255" blue="0" green="0" red="255" type="Color">-65536</CriticalColor>
@@ -1137,7 +1137,7 @@
 <RunDemo type="boolean">false</RunDemo>
 <MustPaint type="boolean">true</MustPaint>
 <StartAngle type="int">0</StartAngle>
-<ShortestSize type="int">16</ShortestSize>
+<ShortestSize type="int">15</ShortestSize>
 <ValueDigits type="int">0</ValueDigits>
 <SmoothedValue type="double">50.0</SmoothedValue>
 <SweepBeginDegree type="int">300</SweepBeginDegree>
@@ -1154,7 +1154,7 @@
 <LowCriticalVP type="ValueProvider">-1.0</LowCriticalVP>
 <LowWarningVP type="ValueProvider">-1.0</LowWarningVP>
 <HighWarningVP type="ValueProvider">151.0</HighWarningVP>
-<HistoricalPeakValue type="double">50.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
 <LowCritical type="double">-1.0</LowCritical>
 <BorderWidth type="int">0</BorderWidth>
 <CriticalColor alpha="0" blue="0" green="0" red="0" type="Color">0</CriticalColor>
