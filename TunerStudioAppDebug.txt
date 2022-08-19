@@ -119780,3 +119780,631 @@ x2D x64 x65 x76                                                       -dev
 8/19/22 3:35:55 PM :Info: Went offline 2
 8/19/22 3:35:55 PM :Debug: Port not valid: Unable to open port: /dev/cu.usbmodem141101
 Please check your Communications Settings. 
+8/19/22 3:47:33 PM :Info: Logger Processor stopped.
+8/19/22 3:47:33 PM :Info: Logger Processor stopped.
+8/19/22 3:50:52 PM :Error: Unable to read Logger data. Controller not online.
+8/19/22 3:50:52 PM :Info: Error: Unable to read Logger data. Controller not online.
+8/19/22 3:50:52 PM :Info: Empty Dataset, exiting.
+8/19/22 3:50:54 PM :Info: Logger Processor stopped.
+8/19/22 5:44:58 PM :Warning: Unsupported Controller Firmware:  �?�l�
+8/19/22 5:45:00 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 5:45:01 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 5:45:01 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 5:45:01 PM :Debug: controllerOnline = 1.0
+8/19/22 5:45:01 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:45:01 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 5:45:01 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 5:45:01 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:45:01 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 5:45:01 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 5:45:01 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 5:45:01 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 5:45:01 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 5:45:01 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 5:45:01 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 5:45:01 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 5:45:01 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 5:45:01 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 5:45:01 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 5:45:01 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 5:45:01 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 5:45:01 PM :Debug: Read All Data
+8/19/22 5:45:01 PM :Debug: isBlank Time: 0 ms.
+8/19/22 5:45:01 PM :Debug: DiffTime: 24 ms.
+8/19/22 5:46:38 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 5:46:38 PM :Info: Initiating read page 1 : 15:111
+8/19/22 5:46:38 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+8/19/22 5:46:38 PM :Info: Initiating read page 4 : 123:1
+8/19/22 5:46:38 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 5:46:38 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 5:46:38 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 5:46:38 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:46:41 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 5:46:42 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:42 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:42 PM :Debug: Flush lasted: 1ms.
+8/19/22 5:46:42 PM :Debug: Burn Page anonymous: 1
+8/19/22 5:46:42 PM :Debug: Received Instruction: , Page: 1
+8/19/22 5:46:42 PM :Info: Queueing burn to page:1
+8/19/22 5:46:42 PM :Debug: Burn time:8ms.
+8/19/22 5:46:42 PM :Debug: burned page 1
+8/19/22 5:46:42 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:46:42 PM :Debug: CRC matches for page 1:x77 x24 x58 x02                                                       w$X.
+8/19/22 5:46:44 PM :Info: Time to save msq: 31.051195
+8/19/22 5:46:44 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:44 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:44 PM :Debug: Flush lasted: 2ms.
+8/19/22 5:46:44 PM :Debug: Burn Page anonymous: -1
+8/19/22 5:46:44 PM :Debug: Received Instruction: , Page: 1
+8/19/22 5:46:44 PM :Info: skip burn to page:1, lastWritePage = -2
+8/19/22 5:46:44 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+8/19/22 5:46:54 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 5:46:54 PM :Info: Initiating read page 1 : 15:111
+8/19/22 5:46:54 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+8/19/22 5:46:54 PM :Info: Initiating read page 4 : 123:1
+8/19/22 5:46:54 PM :Debug: CRC matches for page 1:x77 x24 x58 x02                                                       w$X.
+8/19/22 5:46:54 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 5:46:54 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 5:46:54 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:46:58 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:58 PM :Info: dirtyData.size(): 0
+8/19/22 5:46:58 PM :Debug: Flush lasted: 74ms.
+8/19/22 5:46:58 PM :Debug: Burn Page anonymous: -1
+8/19/22 5:46:58 PM :Debug: Received Instruction: , Page: 4
+8/19/22 5:46:58 PM :Info: skip burn to page:4, lastWritePage = -2
+8/19/22 5:46:58 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 4
+8/19/22 5:48:43 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:46 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:46 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:48:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:49:07 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 5:49:09 PM :Info: Logger Processor stopped.
+8/19/22 5:49:10 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 5:49:11 PM :Debug: controllerOnline = 0.0
+8/19/22 5:49:11 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:49:11 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:49:11 PM :Debug: Went offline
+8/19/22 5:49:11 PM :Debug: controllerOnline = 0.0
+8/19/22 5:49:11 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:49:11 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:49:11 PM :Info: Went offline 2
+8/19/22 5:49:37 PM :Debug: goOffline Starting, Time:0
+8/19/22 5:49:37 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 5:49:37 PM :Debug: goOffline about to stopProcessing, Time:0
+8/19/22 5:49:37 PM :Debug: goOffline closed port, Time:1
+8/19/22 5:49:37 PM :Debug: goOffline Starting, Time:0
+8/19/22 5:49:37 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 5:49:37 PM :Debug: goOffline about to stopProcessing, Time:1
+8/19/22 5:49:37 PM :Debug: goOffline closed port, Time:1
+8/19/22 5:49:37 PM :Debug: set baud to 115200
+8/19/22 5:49:37 PM :Debug: set baud to 115200
+8/19/22 5:49:38 PM :Debug: goOffline comm thread stopped, Time:506
+8/19/22 5:49:38 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:49:38 PM :Info: Alfa GTV ComThread stopped COMM Thread80970.21425211347
+8/19/22 5:49:38 PM :Debug: goOffline comm thread stopped, Time:747
+8/19/22 5:49:38 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:49:41 PM :Debug: set baud to 115200
+8/19/22 5:49:41 PM :Info: Com Thread created: COMM Thread52569.65165613437
+8/19/22 5:49:41 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread52569.65165613437
+8/19/22 5:49:42 PM :Info: Comm Read Thread Change! Old Thread:COMM Thread80970.21425211347, new Thread:COMM Thread52569.65165613437
+
+8/19/22 5:49:46 PM :Debug: Purged 4 orphaned bytes:
+8/19/22 5:49:46 PM :Debug: Time:8365.529s. 0x3F 0xBA 0x6C 0xAD 
+8/19/22 5:49:46 PM :Debug: Time:8365.529s. 
+
+8/19/22 5:49:46 PM :Debug: Time:8365.529s.   ?    .    l    .  
+8/19/22 5:49:47 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 5:49:48 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 5:49:48 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 5:49:48 PM :Debug: controllerOnline = 1.0
+8/19/22 5:49:48 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:49:48 PM :Debug: CRC matches for page 1:x77 x24 x58 x02                                                       w$X.
+8/19/22 5:49:48 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 5:49:48 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 5:49:48 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 5:49:48 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 5:49:48 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:49:48 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 5:49:48 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 5:49:48 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 5:49:48 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 5:49:49 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 5:49:49 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 5:49:49 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 5:49:49 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 5:49:49 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 5:49:49 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 5:49:49 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 5:49:49 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 5:49:49 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 5:49:49 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 5:49:49 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 5:49:49 PM :Debug: Read All Data
+8/19/22 5:49:49 PM :Debug: isBlank Time: 0 ms.
+8/19/22 5:49:49 PM :Debug: DiffTime: 9 ms.
+8/19/22 5:49:59 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Spark_Settings is set for dialog, but not found in ini.
+8/19/22 5:49:59 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 5:49:59 PM :Info: Initiating read page 1 : 26:13
+8/19/22 5:49:59 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+8/19/22 5:49:59 PM :Debug: CRC matches for page 1:x77 x24 x58 x02                                                       w$X.
+8/19/22 5:49:59 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 5:49:59 PM :Info: Initiating read page 4 : 2:11
+8/19/22 5:49:59 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 5:49:59 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:50:02 PM :Debug: Received Instruction: Write Chunk, Page: 4
+8/19/22 5:50:02 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:50:03 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:03 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:03 PM :Debug: Flush lasted: 75ms.
+8/19/22 5:50:03 PM :Debug: Burn Page anonymous: 4
+8/19/22 5:50:03 PM :Debug: Received Instruction: , Page: 4
+8/19/22 5:50:03 PM :Info: Queueing burn to page:4
+8/19/22 5:50:03 PM :Debug: Burn time:9ms.
+8/19/22 5:50:03 PM :Debug: burned page 4
+8/19/22 5:50:03 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:50:03 PM :Debug: CRC matches for page 4:x8C xAF x5D xE1                                                       ..].
+8/19/22 5:50:05 PM :Info: Time to save msq: 18.356478
+8/19/22 5:50:08 PM :Info: Re-establishing connection to: RS232: Port:/dev/tty.usbmodem141101, Baud:115200
+8/19/22 5:50:08 PM :Warning: Failed to re-establish connection to: RS232: Port:/dev/tty.usbmodem141101, Baud:115200
+8/19/22 5:50:08 PM :Info: Connection Check failed, forcing offline.
+8/19/22 5:50:09 PM :Debug: controllerOnline = 0.0
+8/19/22 5:50:09 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:50:09 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:50:09 PM :Debug: Went offline
+8/19/22 5:50:09 PM :Debug: controllerOnline = 0.0
+8/19/22 5:50:09 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:50:09 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:50:09 PM :Info: Went offline 2
+8/19/22 5:50:10 PM :Debug: Port not valid: Unable to open port: /dev/tty.usbmodem141101
+Please check your Communications Settings. 
+8/19/22 5:50:17 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:17 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:17 PM :Debug: Flush lasted: 73ms.
+8/19/22 5:50:17 PM :Debug: Skip Burn, last write page: -2
+8/19/22 5:50:19 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 5:50:19 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 5:50:19 PM :Info: Initiating read page 1 : 3:96
+8/19/22 5:50:19 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 5:50:19 PM :Info: Initiating read page 6 : 15:12
+8/19/22 5:50:22 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:22 PM :Info: dirtyData.size(): 0
+8/19/22 5:50:22 PM :Debug: Flush lasted: 73ms.
+8/19/22 5:50:22 PM :Debug: Skip Burn, last write page: -2
+8/19/22 5:50:48 PM :Info: Com Thread created: COMM Thread73361.44634908525
+8/19/22 5:50:48 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread73361.44634908525
+8/19/22 5:50:49 PM :Info: Comm Read Thread Change! Old Thread:COMM Thread52569.65165613437, new Thread:COMM Thread73361.44634908525
+8/19/22 5:50:49 PM :Info: Alfa GTV ComThread stopped COMM Thread52569.65165613437
+8/19/22 5:51:59 PM :Debug: TuneLog Editor set text
+8/19/22 5:51:59 PM :Debug: Fill Constants: 18
+8/19/22 5:52:00 PM :Debug: File does not exist, creating new:
+/Users/ale/Projects/AlfaTunes/Alfa GTV/restorePoints/Alfa GTV_2022-08-19_17.51.59.msq
+8/19/22 5:52:00 PM :Info: Time to save msq: 19.833351
+8/19/22 5:52:00 PM :Info: Alfa GTV Restore point saved
+8/19/22 5:52:00 PM :Info: Alfa GTV Restore point saved to: Alfa GTV_2022-08-19_17.51.59.msq
+8/19/22 5:52:00 PM :Info: Time to save msq: 10.384782
+8/19/22 5:52:00 PM :Debug: goOffline Starting, Time:0
+8/19/22 5:52:00 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 5:52:00 PM :Debug: goOffline about to stopProcessing, Time:0
+8/19/22 5:52:00 PM :Debug: goOffline closed port, Time:0
+8/19/22 5:52:00 PM :Info: Alfa GTV ComThread stopped COMM Thread73361.44634908525
+8/19/22 5:52:00 PM :Debug: goOffline comm thread stopped, Time:901
+8/19/22 5:52:00 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:52:00 PM :Debug: removing Configuration: Alfa GTV
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 53.255375 ms. file:IgnitionLoggerCluster.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 56.160175ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/IgnitionLoggerCluster.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 56.547913 ms. file:veAnalyze_veTable1Tbl.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 57.52811ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_veTable1Tbl.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 18.83075 ms. file:veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 19.660252ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 41.500385 ms. file:veAnalyze_fuelTable2Tbl.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 42.726017ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_fuelTable2Tbl.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 16.136896 ms. file:veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 17.085287ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 47.95744 ms. file:wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 49.00536ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 5:52:01 PM :Info: Time to load non-cached dashboard: 14.945753 ms. file:wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 5:52:01 PM :Debug: Time to save dashboard: 15.817578ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 5:52:01 PM :Debug: ############################################# Save Project Backup ##########################################
+Saved user properties successfully
+Starting on MacBook-von-Alessandro.local
+TunerStudio 3.1.08 started on Fri Aug 19 17:52:07 CEST 2022
+JRE 1.8.0_91, Mac OS X 10.16, x86_64
+java.library.path=/Users/ale/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Mac OS X, ClassName:'com.apple.laf.AquaLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:de.muntjak.tinylookandfeel.TinyLookAndFeel
+TinyLaF v1.4.0
+Theme: jar:file:/Applications/TunerStudio_MS.app/Contents/Java/TunerStudioMS.jar!/Default.theme
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.
+ScrollBar.width
+8/19/22 5:52:11 PM :Debug: no update:defaultFont
+8/19/22 5:52:12 PM :Info: Initializing File Dialogs.
+8/19/22 5:52:12 PM :Info: Updating ai & t
+8/19/22 5:52:13 PM :Info: Loading Language Content.
+8/19/22 5:52:15 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+8/19/22 5:52:15 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+8/19/22 5:52:15 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+8/19/22 5:52:15 PM :Info: Initializing Plugin Services.
+8/19/22 5:52:15 PM :Info: Loading Plugins.
+8/19/22 5:52:15 PM :Info: Initializing Help.
+8/19/22 5:52:15 PM :Info: Initializing Edition Features.
+8/19/22 5:52:15 PM :Info: Initializing App Events.
+8/19/22 5:52:15 PM :Debug: App Name:TunerStudio, appEdition:MS
+8/19/22 5:52:15 PM :Info: Initializing User Interface
+8/19/22 5:52:17 PM :Info: Loading Font list.
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.
+8/19/22 5:52:17 PM :Debug: Time to retreive font name list: 120 ms.
+8/19/22 5:52:17 PM :Info: 
+8/19/22 5:52:17 PM :Info: Initializing UI Components.
+8/19/22 5:52:17 PM :Info: Ready
+MSmain: No check, last update check=Thu Aug 18 17:55:04 CEST 2022
+MSad: No check, last update check=Thu Aug 18 17:55:08 CEST 2022
+8/19/22 5:52:22 PM :Info: Opening Project ...
+8/19/22 5:52:22 PM :Debug: Opening project: /Users/ale/Projects/AlfaTunes/Alfa GTV
+8/19/22 5:52:22 PM :Debug: EventTrigger Data log Reset. expression: 
+8/19/22 5:52:22 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+8/19/22 5:52:22 PM :Debug: Reading translation file as plain text
+8/19/22 5:52:23 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 5:52:23 PM :Debug: Filtered ConfigurationOptionGroup in 23ms.
+8/19/22 5:52:23 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 5:52:23 PM :Info: Read file canPcVariables.ini: 0.832765ms
+8/19/22 5:52:23 PM :Info: Filtered ini: 0.07574ms
+8/19/22 5:52:23 PM :Info: No iniVersion defined
+8/19/22 5:52:23 PM :Info: Loading Trigger Wheels
+8/19/22 5:52:23 PM :Info: Loaded All known ini sections
+8/19/22 5:52:23 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 19ms.
+8/19/22 5:52:23 PM :Info: Read file mainController.ini: 15.139132ms
+8/19/22 5:52:23 PM :Info: Filtered ini: 5.803427ms
+8/19/22 5:52:23 PM :Info: No iniVersion defined
+8/19/22 5:52:23 PM :Debug: ini signature: speeduino 202204-dev
+8/19/22 5:52:23 PM :Info: Loading Trigger Wheels
+8/19/22 5:52:23 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+8/19/22 5:52:23 PM :Info: Loaded All known ini sections
+8/19/22 5:52:23 PM :Info: Parsed and validated ini "mainController.ini" in : 285ms.
+8/19/22 5:52:23 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 5:52:23 PM :Info: Read file speeduinoSupplement.ecu: 22.481663ms
+8/19/22 5:52:23 PM :Info: Filtered ini: 0.18327ms
+8/19/22 5:52:23 PM :Info: No iniVersion defined
+8/19/22 5:52:23 PM :Info: Loading Trigger Wheels
+8/19/22 5:52:23 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+8/19/22 5:52:23 PM :Info: Validate Expressions disabled.
+8/19/22 5:52:23 PM :Info: Loaded All known ini sections
+8/19/22 5:52:23 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 38ms.
+8/19/22 5:52:23 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+8/19/22 5:52:23 PM :Info: Time to load primary config: 486.07343ms. used cached config: false
+8/19/22 5:52:23 PM :Debug: set baud to 115200
+8/19/22 5:52:23 PM :Debug: Adding Configuration: Alfa GTV
+8/19/22 5:52:23 PM :Debug: controllerOnline = 0.0
+8/19/22 5:52:23 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+8/19/22 5:52:23 PM :Debug: Fill Constants: 24
+8/19/22 5:52:23 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 5:52:23 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 5:52:23 PM :Info: dirtyData.size(): 0
+8/19/22 5:52:23 PM :Info: dirtyData.size(): 0
+8/19/22 5:52:23 PM :Debug: Flush lasted: 73ms.
+8/19/22 5:52:23 PM :Info: dirtyData.size(): 0
+8/19/22 5:52:23 PM :Info: dirtyData.size(): 0
+8/19/22 5:52:23 PM :Debug: Flush lasted: 73ms.
+8/19/22 5:52:23 PM :Debug: Skip Burn, last write page: -2
+8/19/22 5:52:23 PM :Info: !!! Loaded config in 969
+8/19/22 5:52:24 PM :Info: !!! Activated Project 1370
+8/19/22 5:52:24 PM :Info: Opening Gauge Cluster..
+8/19/22 5:52:24 PM :Info: Time to load uncached dash: 154.73163ms, file: dashboard.dash
+8/19/22 5:52:24 PM :Debug: High Speed Paint: false
+8/19/22 5:52:24 PM :Info: 
+8/19/22 5:52:24 PM :Info: Com Thread created: COMM Thread75091.66590043064
+8/19/22 5:52:24 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+8/19/22 5:52:24 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread75091.66590043064
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+8/19/22 5:52:24 PM :Info: EventTrigger: Alfa GTV.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+8/19/22 5:52:25 PM :Info: Time to load uncached dash: 483.71814ms, file: new.dash
+8/19/22 5:52:25 PM :Debug: High Speed Paint: false
+8/19/22 5:52:25 PM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread75091.66590043064
+8/19/22 5:52:25 PM :Info: Time to load uncached dash: 587.07025ms, file: newnew.dash
+8/19/22 5:52:25 PM :Debug: High Speed Paint: true
+8/19/22 5:52:25 PM :Debug: !!! Opened Dash 3071
+8/19/22 5:52:25 PM :Info: Alfa GTV Ready
+8/19/22 5:52:25 PM :Debug: Tuning View Files loaded in 0.772465ms.
+
+8/19/22 5:52:29 PM :Debug: Purged 4 orphaned bytes:
+8/19/22 5:52:29 PM :Debug: Time:5.729s. 0x3F 0xBA 0x6C 0xAD 
+8/19/22 5:52:29 PM :Debug: Time:5.729s. 
+
+8/19/22 5:52:29 PM :Debug: Time:5.729s.   ?    .    l    .  
+8/19/22 5:52:30 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 5:52:31 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 5:52:31 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 5:52:31 PM :Debug: controllerOnline = 1.0
+8/19/22 5:52:31 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:52:31 PM :Debug: CRC matches for page 1:x77 x24 x58 x02                                                       w$X.
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 5:52:31 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 5:52:31 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 5:52:31 PM :Debug: CRC matches for page 4:x8C xAF x5D xE1                                                       ..].
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 5:52:31 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 5:52:31 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 5:52:31 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 5:52:31 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 5:52:31 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 5:52:31 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 5:52:31 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 5:52:31 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 5:52:31 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 5:52:31 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 5:52:31 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 5:52:31 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 5:52:31 PM :Debug: Read All Data
+8/19/22 5:52:31 PM :Debug: isBlank Time: 0 ms.
+8/19/22 5:52:31 PM :Debug: DiffTime: 29 ms.
+8/19/22 5:52:39 PM :Info: Logger Processor stopped.
+8/19/22 5:52:39 PM :Info: Logger Processor stopped.
+8/19/22 5:52:39 PM :Info: Logger Processor stopped.
+8/19/22 5:52:39 PM :Info: Logger Processor stopped.
+8/19/22 5:52:39 PM :Info: Time to load uncached dash: 21.231432ms, file: IgnitionLoggerCluster.dash
+8/19/22 5:52:39 PM :Debug: High Speed Paint: true
+8/19/22 5:52:39 PM :Debug: Deactivated fast paint IgnitionLoggerCluster
+8/19/22 5:52:41 PM :Info: Time to load uncached dash: 21.960176ms, file: veAnalyze_veTable1Tbl.dash
+8/19/22 5:52:41 PM :Debug: High Speed Paint: true
+8/19/22 5:52:41 PM :Info: Time to load uncached dash: 33.077995ms, file: veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 5:52:41 PM :Debug: High Speed Paint: true
+8/19/22 5:52:42 PM :Info: Time to load uncached dash: 20.915873ms, file: veAnalyze_fuelTable2Tbl.dash
+8/19/22 5:52:42 PM :Debug: High Speed Paint: true
+8/19/22 5:52:42 PM :Info: Time to load uncached dash: 33.390224ms, file: veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 5:52:42 PM :Debug: High Speed Paint: true
+8/19/22 5:52:42 PM :Info: Time to load uncached dash: 13.787491ms, file: wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 5:52:42 PM :Debug: High Speed Paint: true
+8/19/22 5:52:42 PM :Info: Time to load uncached dash: 20.314953ms, file: wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 5:52:42 PM :Debug: High Speed Paint: true
+8/19/22 5:52:46 PM :Debug: Deactivated fast paint VeAnalyzeConsole.Histogram.veTable1Tbl
+8/19/22 5:52:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:52:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:13 PM :Info: Logger Processor stopped.
+8/19/22 5:53:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:36 PM :Debug: Received Instruction: , Page: 0
+8/19/22 5:53:36 PM :Info: Logger Processor stopped.
+8/19/22 5:53:49 PM :Info: Re-establishing connection to: RS232: Port:/dev/tty.usbmodem141101, Baud:115200
+8/19/22 5:53:49 PM :Warning: Failed to re-establish connection to: RS232: Port:/dev/tty.usbmodem141101, Baud:115200
+8/19/22 5:53:49 PM :Info: Connection Check failed, forcing offline.
+8/19/22 5:53:50 PM :Debug: controllerOnline = 0.0
+8/19/22 5:53:50 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:53:50 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:53:50 PM :Debug: Went offline
+8/19/22 5:53:50 PM :Debug: controllerOnline = 0.0
+8/19/22 5:53:50 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 5:53:50 PM :Debug: No Remaining Queue Write instructions
+8/19/22 5:53:50 PM :Info: Went offline 2
+8/19/22 5:53:51 PM :Debug: Port not valid: Unable to open port: /dev/tty.usbmodem141101
+Please check your Communications Settings. 

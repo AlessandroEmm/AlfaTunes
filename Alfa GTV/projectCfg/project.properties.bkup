@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Fri Aug 19 15:28:34 CEST 2022
-#Fri Aug 19 15:28:34 CEST 2022
+#Last Saved on: Fri Aug 19 15:29:21 CEST 2022
+#Fri Aug 19 15:29:21 CEST 2022
 fuelpumpFuel\ pump_height=199
 iacClosedLoop_curveIdle\ RPM\ Targets_height=293
 fanSettingsFan\ Settings_width=404
@@ -290,10 +290,10 @@ ASEAfterstart\ Enrichment(ASE)_X=459
 crankPWCranking\ Settings_Y=41
 crankPWCranking\ Settings_X=705
 VeAnalyzePanel_fuelTable2Tbl_weightThreshold=0.0
-VeAnalyzePanel_veTable1Tbl_minChangeThreshold=0.0
 clt_advance_curveCold\ Advance_height=504
-dashBoardFile=/dashboard//dashboard.dash
+VeAnalyzePanel_veTable1Tbl_minChangeThreshold=0.0
 ecuConfigFile=mainController.ini
+dashBoardFile=/dashboard//dashboard.dash
 sparkTable2DialogSpark\ Table\ 2_Y=253
 sparkTable2DialogSpark\ Table\ 2_X=662
 Alfa\ GTV.fuelTable2Tbl_std_yAxisMin=20.0
