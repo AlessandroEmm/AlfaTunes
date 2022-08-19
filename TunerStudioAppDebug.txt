@@ -117616,3 +117616,2167 @@ x2D x64 x65 x76                                                       -dev
 8/18/22 6:48:33 PM :Info: Went offline 2
 8/18/22 6:48:34 PM :Debug: Port not valid: Unable to open port: /dev/cu.usbmodem141101
 Please check your Communications Settings. 
+
+8/19/22 1:34:27 PM :Debug: Purged 4 orphaned bytes:
+8/19/22 1:34:27 PM :Debug: Time:70706.827s. 0x3F 0xBA 0x6C 0xAD 
+8/19/22 1:34:27 PM :Debug: Time:70706.827s. 
+
+8/19/22 1:34:27 PM :Debug: Time:70706.827s.   ?    .    l    .  
+8/19/22 1:34:28 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 1:34:29 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 1:34:29 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 1:34:29 PM :Debug: controllerOnline = 1.0
+8/19/22 1:34:29 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 1:34:29 PM :Debug: CRC matches for page 1:x4B xE3 xD9 xED                                                       K...
+8/19/22 1:34:29 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 1:34:30 PM :Debug: CRC matches for page 2:xC9 x6D xAD x8C                                                       .m..
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 1:34:30 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 1:34:30 PM :Debug: CRC matches for page 4:xE2 x1A x83 xF3                                                       ....
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 1:34:30 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 1:34:30 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 1:34:30 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 1:34:30 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 1:34:30 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 1:34:30 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 1:34:30 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 1:34:30 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 1:34:30 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 1:34:30 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 1:34:30 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 1:34:30 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 1:34:30 PM :Debug: Read All Data
+8/19/22 1:34:30 PM :Debug: isBlank Time: 0 ms.
+8/19/22 1:34:30 PM :Debug: DiffTime: 14 ms.
+8/19/22 1:34:35 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:35 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:35 PM :Debug: Flush lasted: 74ms.
+8/19/22 1:34:35 PM :Debug: Skip Burn, last write page: -2
+8/19/22 1:34:38 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 1:34:38 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 1:34:39 PM :Info: Initiating read page 1 : 3:96
+8/19/22 1:34:39 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 1:34:39 PM :Info: Initiating read page 6 : 15:12
+8/19/22 1:34:39 PM :Debug: CRC matches for page 1:x4B xE3 xD9 xED                                                       K...
+8/19/22 1:34:39 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 1:34:39 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 1:34:39 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 1:34:42 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:34:45 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:45 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:45 PM :Debug: Flush lasted: 74ms.
+8/19/22 1:34:45 PM :Debug: Burn Page anonymous: 1
+8/19/22 1:34:45 PM :Debug: Received Instruction: , Page: 1
+8/19/22 1:34:45 PM :Info: Queueing burn to page:1
+8/19/22 1:34:46 PM :Debug: Burn time:7ms.
+8/19/22 1:34:46 PM :Debug: burned page 1
+8/19/22 1:34:46 PM :Debug: No Remaining Queue Write instructions
+8/19/22 1:34:46 PM :Debug: CRC matches for page 1:x26 x35 x57 xEA                                                       &5W.
+8/19/22 1:34:46 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:46 PM :Info: dirtyData.size(): 0
+8/19/22 1:34:46 PM :Debug: Flush lasted: 73ms.
+8/19/22 1:34:46 PM :Debug: Burn Page anonymous: -1
+8/19/22 1:34:46 PM :Debug: Received Instruction: , Page: 1
+8/19/22 1:34:46 PM :Info: skip burn to page:1, lastWritePage = -2
+8/19/22 1:34:46 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+8/19/22 1:34:48 PM :Info: Time to save msq: 15.188178
+8/19/22 1:41:52 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 1:41:52 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 1:41:52 PM :Info: Initiating read page 1 : 3:96
+8/19/22 1:41:52 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 1:41:52 PM :Info: Initiating read page 6 : 15:12
+8/19/22 1:41:52 PM :Debug: CRC matches for page 1:x26 x35 x57 xEA                                                       &5W.
+8/19/22 1:41:52 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 1:41:52 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 1:41:52 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 1:41:56 PM :Info: dirtyData.size(): 0
+8/19/22 1:41:56 PM :Info: dirtyData.size(): 0
+8/19/22 1:41:56 PM :Debug: Flush lasted: 73ms.
+8/19/22 1:41:56 PM :Debug: Burn Page anonymous: -1
+8/19/22 1:41:56 PM :Debug: Received Instruction: , Page: 6
+8/19/22 1:41:56 PM :Info: skip burn to page:6, lastWritePage = -2
+8/19/22 1:41:56 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 6
+8/19/22 1:43:05 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:43:05 PM :Debug: Received Instruction: Write Chunk, Page: 4
+8/19/22 1:43:05 PM :Debug: Activate Page, burn page 1 new active page=4
+8/19/22 1:43:05 PM :Debug: Burn time:9ms.
+8/19/22 1:43:05 PM :Debug: burned page 1
+8/19/22 1:43:05 PM :Debug: CRC matches for page 1:xE8 xF5 xA5 xF4                                                       ....
+8/19/22 1:43:10 PM :Debug: Clearing selection. Vertical: false
+8/19/22 1:43:14 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:43:14 PM :Debug: Activate Page, burn page 4 new active page=1
+8/19/22 1:43:14 PM :Debug: Burn time:11ms.
+8/19/22 1:43:14 PM :Debug: burned page 4
+8/19/22 1:43:14 PM :Debug: CRC matches for page 4:xA4 xAA x68 x76                                                       ..hv
+8/19/22 1:43:30 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:43:30 PM :Debug: Received Instruction: Write Chunk, Page: 4
+8/19/22 1:43:31 PM :Debug: Activate Page, burn page 1 new active page=4
+8/19/22 1:43:31 PM :Debug: Burn time:10ms.
+8/19/22 1:43:31 PM :Debug: burned page 1
+8/19/22 1:43:31 PM :Debug: CRC matches for page 1:x79 xFB x4B x35                                                       y.K5
+8/19/22 1:43:44 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:43:44 PM :Debug: Activate Page, burn page 4 new active page=1
+8/19/22 1:43:44 PM :Debug: Burn time:10ms.
+8/19/22 1:43:44 PM :Debug: burned page 4
+8/19/22 1:43:44 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 1:43:59 PM :Debug: Received Instruction: Write Chunk, Page: 1
+Aug 19, 2022 1:44:00 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 255.63170197860535 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:00 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 257.475186417464 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:00 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 259.17807747024904 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:00 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 260.76120806146383 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 262.1942358283687 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 263.481606397114 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 264.6470512667475 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 265.7113984155065 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 266.6960587969977 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 267.6108561471971 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 268.47038158795056 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 269.28183551365737 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 270.04328349344325 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 270.75854554315015 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 271.4310804163252 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 272.06662335653266 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 272.6703325075365 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 273.23443492234026 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:01 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 273.75934675451435 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 274.24311973670433 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 274.6957277346342 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.10331879027 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.46246398848257 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.77014354527745 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.03879416824503 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.281819061616 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.4885278926986 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.651323644234 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.77138852905557 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.8577295030343 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.9166434998057 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.95961018962583 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.98962226396395 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:02 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 277.0038981852504 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 277.00354177236477 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.9806536737013 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.94384586179564 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.8958333678647 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.8459399128597 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.78256724078864 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.70666067415755 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.612574388701 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.50961153103293 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.3984191972172 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.3984191972172 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.3984191972172 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 276.1133681779903 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.80041692172904 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:03 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.47981803167215 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 275.159774683343 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 274.82710123065607 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 274.4813229754822 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 274.12924330804873 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 273.770033036161 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 273.3817724359627 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 272.9803706714552 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 272.57373001146334 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 272.1637570205005 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 271.745506592423 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 271.3316558068028 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 270.91298897266273 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 270.4718398985297 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 270.07135528520007 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:04 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 269.6408888059657 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 269.19241061471195 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 268.7358636554021 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 268.2707096509127 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 267.812252836299 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 267.35554847447867 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 266.8983522805302 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 266.4350319082211 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 265.97547666793207 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 265.5243259573744 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 265.5243259573744 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 265.03167196774166 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 264.56046441540553 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 264.1064299214728 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 263.6633306256634 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:05 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 263.2318984478641 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 262.81607636868944 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 262.4120105421459 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 262.0182091218967 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 261.6269164559336 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 261.2444680183478 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 260.8747368674739 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+Aug 19, 2022 1:44:06 PM bn.D k
+SEVERE: null
+U.i: Value out of bounds. 260.4894497842538 exceeds maximum allowed value 255.0
+	at F.aL.a(Unknown Source)
+	at bn.D.k(Unknown Source)
+	at bn.D.a(Unknown Source)
+	at F.J.a(Unknown Source)
+	at F.J.z(Unknown Source)
+	at y.t.e(Unknown Source)
+	at y.u.run(Unknown Source)
+
+8/19/22 1:44:14 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:44:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:44:44 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:44:59 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:45:14 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:45:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:45:44 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:45:59 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:46:14 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:46:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:46:44 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:46:59 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:47:14 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:47:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:47:45 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:48:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:48:44 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:48:59 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:51:54 PM :Info: Auto Logging: Stopped Logging
+8/19/22 1:51:54 PM :Debug: EventTrigger Stop Data log Triggered. expression: 
+8/19/22 1:51:54 PM :Debug: Starting Log for 1 Configs.
+8/19/22 1:51:54 PM :Debug: Time to subscribe all data log channels: 0.085428
+8/19/22 1:51:54 PM :Debug: MLG header created
+8/19/22 1:51:54 PM :Info: Started Data Log to file: /Users/ale/Projects/AlfaTunes/Alfa GTV/DataLogs/2022-08-19_13.51.54.mlg
+8/19/22 1:51:54 PM :Info: Channels active on main config Alfa GTV: 108
+8/19/22 1:51:54 PM :Info: Capturing DataLog
+8/19/22 1:51:54 PM :Debug: Skipping Record: nanCount=55
+8/19/22 1:51:55 PM :Debug: Skipping Record: nanCount=55
+8/19/22 1:51:55 PM :Debug: Skipping Record: nanCount=55
+8/19/22 1:53:45 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:54:00 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:54:15 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:54:30 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:54:45 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:54:55 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 1:55:57 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 1:55:57 PM :Info: Initiating read page 1 : 3:68
+8/19/22 1:55:57 PM :Debug: Received Instruction: Read Chunk 2, Page: 2
+8/19/22 1:55:57 PM :Info: Initiating read page 2 : 0:288
+8/19/22 1:55:57 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 1:55:57 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 1:55:57 PM :Debug: Activate Page, burn page 1 new active page=2
+8/19/22 1:55:57 PM :Debug: Burn time:31ms.
+8/19/22 1:55:57 PM :Debug: burned page 1
+8/19/22 1:55:57 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 1:55:57 PM :Debug: CRC matches for page 2:xC9 x6D xAD x8C                                                       .m..
+8/19/22 1:55:57 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 1:56:01 PM :Debug: Received Instruction: Write Chunk, Page: 2
+8/19/22 1:56:07 PM :Debug: Received Instruction: Write Chunk, Page: 2
+8/19/22 1:56:08 PM :Info: dirtyData.size(): 0
+8/19/22 1:56:08 PM :Info: dirtyData.size(): 0
+8/19/22 1:56:08 PM :Debug: Flush lasted: 74ms.
+8/19/22 1:56:08 PM :Debug: Burn Page anonymous: 2
+8/19/22 1:56:08 PM :Debug: Received Instruction: , Page: 2
+8/19/22 1:56:08 PM :Info: Queueing burn to page:2
+8/19/22 1:56:09 PM :Warning: OverRun condition! No bytes expected from controller, found 7
+8/19/22 1:56:09 PM :Debug: Burn time:13ms.
+8/19/22 1:56:09 PM :Debug: burned page 2
+8/19/22 1:56:09 PM :Debug: No Remaining Queue Write instructions
+
+8/19/22 1:56:09 PM :Debug: Purged 7 orphaned bytes:
+8/19/22 1:56:09 PM :Debug: Time:72008.168s. 0x0 0x1 0x80 0x3F 0xBA 0x6C 0xAD 
+8/19/22 1:56:09 PM :Debug: Time:72008.168s. 
+
+8/19/22 1:56:09 PM :Debug: Time:72008.168s.   .    .    .    ?    .    l    .  
+8/19/22 1:56:09 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 1:56:10 PM :Info: Time to save msq: 9.308802
+8/19/22 1:56:10 PM :Info: dirtyData.size(): 0
+8/19/22 1:56:10 PM :Info: dirtyData.size(): 0
+8/19/22 1:56:10 PM :Debug: Flush lasted: 24ms.
+8/19/22 1:56:10 PM :Debug: Burn Page anonymous: -1
+8/19/22 1:56:10 PM :Debug: Received Instruction: , Page: 2
+8/19/22 1:56:10 PM :Info: skip burn to page:2, lastWritePage = -2
+8/19/22 1:56:10 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 2
+8/19/22 1:57:48 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 1:57:52 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 1:57:53 PM :Debug: controllerOnline = 0.0
+8/19/22 1:57:53 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 1:57:53 PM :Debug: Deactivated fast paint newnew
+8/19/22 1:57:53 PM :Debug: No Remaining Queue Write instructions
+8/19/22 1:57:53 PM :Debug: Went offline
+8/19/22 1:57:53 PM :Debug: controllerOnline = 0.0
+8/19/22 1:57:53 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 1:57:53 PM :Debug: No Remaining Queue Write instructions
+8/19/22 1:57:53 PM :Info: Went offline 2
+8/19/22 1:57:56 PM :Warning: Unsupported Controller Firmware:  �?�l�
+8/19/22 1:57:58 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 1:57:59 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 1:57:59 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 1:57:59 PM :Debug: controllerOnline = 1.0
+8/19/22 1:57:59 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 1:57:59 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 1:57:59 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 1:57:59 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 1:57:59 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 1:57:59 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 1:57:59 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 1:57:59 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 1:57:59 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 1:57:59 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 1:57:59 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 1:57:59 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 1:57:59 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 1:57:59 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 1:57:59 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 1:57:59 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 1:57:59 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 1:57:59 PM :Debug: Read All Data
+8/19/22 1:57:59 PM :Debug: isBlank Time: 0 ms.
+8/19/22 1:57:59 PM :Debug: DiffTime: 7 ms.
+8/19/22 1:58:39 PM :Info: Data log stopped
+8/19/22 1:58:39 PM :Info: FileOutputStream Closed.
+8/19/22 2:03:35 PM :Info: Auto Logging: Stopped Logging
+8/19/22 2:03:35 PM :Debug: EventTrigger Stop Data log Triggered. expression: 
+8/19/22 2:03:35 PM :Debug: Starting Log for 1 Configs.
+8/19/22 2:03:35 PM :Debug: Time to subscribe all data log channels: 0.09581
+8/19/22 2:03:35 PM :Debug: MLG header created
+8/19/22 2:03:35 PM :Info: Started Data Log to file: /Users/ale/Projects/AlfaTunes/Alfa GTV/DataLogs/2022-08-19_14.03.35.mlg
+8/19/22 2:03:35 PM :Info: Channels active on main config Alfa GTV: 108
+8/19/22 2:03:35 PM :Info: Capturing DataLog
+8/19/22 2:03:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 2:03:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 2:03:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 2:03:52 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 2:03:53 PM :Warning: Failed to re-establish connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 2:03:53 PM :Info: Connection Check failed, forcing offline.
+8/19/22 2:03:54 PM :Debug: controllerOnline = 0.0
+8/19/22 2:03:54 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 2:03:54 PM :Debug: No Remaining Queue Write instructions
+8/19/22 2:03:54 PM :Debug: Went offline
+8/19/22 2:03:54 PM :Debug: controllerOnline = 0.0
+8/19/22 2:03:54 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 2:03:54 PM :Debug: No Remaining Queue Write instructions
+8/19/22 2:03:54 PM :Info: Went offline 2
+8/19/22 2:03:54 PM :Debug: Port not valid: Unable to open port: /dev/cu.usbmodem141101
+Please check your Communications Settings. 
+
+8/19/22 3:25:16 PM :Debug: Purged 4 orphaned bytes:
+8/19/22 3:25:16 PM :Debug: Time:77355.933s. 0x3F 0xBA 0x6C 0xAD 
+8/19/22 3:25:16 PM :Debug: Time:77355.934s. 
+
+8/19/22 3:25:16 PM :Debug: Time:77355.934s.   ?    .    l    .  
+8/19/22 3:25:18 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 3:25:19 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 3:25:19 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 3:25:19 PM :Debug: controllerOnline = 1.0
+8/19/22 3:25:19 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:25:19 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 3:25:19 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 3:25:19 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 3:25:19 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 3:25:19 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 3:25:19 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 3:25:19 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 3:25:19 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 3:25:19 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 3:25:19 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 3:25:19 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 3:25:19 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 3:25:19 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 3:25:19 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 3:25:19 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 3:25:19 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 3:25:19 PM :Debug: Read All Data
+8/19/22 3:25:19 PM :Debug: isBlank Time: 0 ms.
+8/19/22 3:25:19 PM :Debug: DiffTime: 5 ms.
+8/19/22 3:25:26 PM :Info: Data log stopped
+8/19/22 3:25:26 PM :Debug: QueuingOutputStream: Flushing Queue, size=1
+8/19/22 3:25:26 PM :Info: FileOutputStream Closed.
+8/19/22 3:25:27 PM :Info: Auto Logging: Stopped Logging
+8/19/22 3:25:27 PM :Debug: EventTrigger Stop Data log Triggered. expression: 
+8/19/22 3:25:27 PM :Debug: Starting Log for 1 Configs.
+8/19/22 3:25:27 PM :Debug: Time to subscribe all data log channels: 0.081892
+8/19/22 3:25:27 PM :Debug: MLG header created
+8/19/22 3:25:27 PM :Info: Started Data Log to file: /Users/ale/Projects/AlfaTunes/Alfa GTV/DataLogs/2022-08-19_15.25.27.mlg
+8/19/22 3:25:27 PM :Info: Channels active on main config Alfa GTV: 108
+8/19/22 3:25:27 PM :Info: Capturing DataLog
+8/19/22 3:25:27 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:25:27 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:25:27 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:25:35 PM :Info: Data log stopped
+8/19/22 3:25:36 PM :Debug: QueuingOutputStream: Flushing Queue, size=1
+8/19/22 3:25:36 PM :Info: FileOutputStream Closed.
+8/19/22 3:25:40 PM :Info: Logger Processor stopped.
+8/19/22 3:25:40 PM :Info: Logger Processor stopped.
+8/19/22 3:25:41 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:42 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:42 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:42 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:42 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:42 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:43 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:43 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:43 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:43 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:44 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:44 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:44 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:44 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:44 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:45 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:45 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:45 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:45 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:46 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:46 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:46 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:47 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:48 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:49 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:50 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:51 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:52 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:53 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:54 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:55 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:56 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:57 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:58 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:25:59 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:00 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:01 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:02 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:03 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:04 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:05 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:06 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:07 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:08 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:09 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:10 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:11 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:12 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:13 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:14 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:14 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:14 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:14 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:15 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:15 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:15 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:15 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:16 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:16 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:16 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:16 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:17 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:18 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:19 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:20 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:21 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:22 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:23 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:24 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:25 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:26 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:27 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:28 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:29 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:30 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:31 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:32 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:33 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:34 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:35 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:36 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:36 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:36 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:36 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:37 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:37 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:37 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:37 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:38 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:38 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:38 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:38 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:39 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:39 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:39 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:40 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:40 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:40 PM :Debug: Received Instruction: , Page: 0
+8/19/22 3:26:42 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 3:26:43 PM :Info: Logger Processor stopped.
+8/19/22 3:26:45 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 3:26:46 PM :Debug: controllerOnline = 0.0
+8/19/22 3:26:46 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:26:46 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:26:46 PM :Debug: Went offline
+8/19/22 3:26:46 PM :Debug: controllerOnline = 0.0
+8/19/22 3:26:46 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:26:47 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:26:47 PM :Info: Went offline 2
+8/19/22 3:28:25 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 3:28:25 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 3:28:25 PM :Info: Initiating read page 1 : 3:96
+8/19/22 3:28:25 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 3:28:25 PM :Info: Initiating read page 6 : 15:12
+8/19/22 3:28:28 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:28 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:28 PM :Debug: Flush lasted: 71ms.
+8/19/22 3:28:28 PM :Debug: Skip Burn, last write page: -2
+8/19/22 3:28:32 PM :Debug: TuneLog Editor set text
+8/19/22 3:28:32 PM :Debug: Fill Constants: 15
+8/19/22 3:28:32 PM :Debug: File does not exist, creating new:
+/Users/ale/Projects/AlfaTunes/Alfa GTV/restorePoints/Alfa GTV_2022-08-19_15.28.32.msq
+8/19/22 3:28:32 PM :Info: Time to save msq: 6.599682
+8/19/22 3:28:32 PM :Info: Alfa GTV Restore point saved
+8/19/22 3:28:32 PM :Info: Alfa GTV Restore point saved to: Alfa GTV_2022-08-19_15.28.32.msq
+8/19/22 3:28:32 PM :Info: Time to save msq: 25.820663
+8/19/22 3:28:32 PM :Debug: goOffline Starting, Time:0
+8/19/22 3:28:32 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 3:28:32 PM :Debug: goOffline about to stopProcessing, Time:0
+8/19/22 3:28:32 PM :Debug: goOffline closed port, Time:0
+8/19/22 3:28:33 PM :Info: Alfa GTV ComThread stopped COMM Thread68083.43767163751
+8/19/22 3:28:33 PM :Debug: goOffline comm thread stopped, Time:1002
+8/19/22 3:28:33 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:28:33 PM :Debug: removing Configuration: Alfa GTV
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 58.0623 ms. file:IgnitionLoggerCluster.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 59.240486ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/IgnitionLoggerCluster.dash
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 57.517223 ms. file:veAnalyze_veTable1Tbl.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 60.74062ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_veTable1Tbl.dash
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 19.74691 ms. file:veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 20.905516ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 59.22263 ms. file:veAnalyze_fuelTable2Tbl.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 60.43024ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_fuelTable2Tbl.dash
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 16.312004 ms. file:veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 17.573822ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 3:28:33 PM :Info: Time to load non-cached dashboard: 47.784336 ms. file:wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 3:28:33 PM :Debug: Time to save dashboard: 48.759487ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 3:28:34 PM :Info: Time to load non-cached dashboard: 15.585223 ms. file:wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 3:28:34 PM :Debug: Time to save dashboard: 16.422392ms. file: /Users/ale/Projects/AlfaTunes/Alfa GTV//dashboard/wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 3:28:34 PM :Debug: ############################################# Save Project Backup ##########################################
+MSmain: No check, last update check=Thu Aug 18 17:55:04 CEST 2022
+8/19/22 3:28:37 PM :Info: Opening Project ...
+8/19/22 3:28:37 PM :Debug: Opening project: /Users/ale/Projects/AlfaTunes/Alfa GTV
+8/19/22 3:28:37 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:28:37 PM :Debug: Filtered ConfigurationOptionGroup in 11ms.
+8/19/22 3:28:37 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:28:37 PM :Info: Read file canPcVariables.ini: 12.801584ms
+8/19/22 3:28:37 PM :Info: Filtered ini: 0.017434ms
+8/19/22 3:28:37 PM :Info: No iniVersion defined
+8/19/22 3:28:37 PM :Info: Loading Trigger Wheels
+8/19/22 3:28:37 PM :Info: Loaded All known ini sections
+8/19/22 3:28:37 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 14ms.
+8/19/22 3:28:37 PM :Info: Read file mainController.ini: 5.627165ms
+8/19/22 3:28:37 PM :Info: Filtered ini: 12.073467ms
+8/19/22 3:28:37 PM :Info: No iniVersion defined
+8/19/22 3:28:37 PM :Debug: ini signature: speeduino 202204-dev
+8/19/22 3:28:37 PM :Info: Loading Trigger Wheels
+8/19/22 3:28:37 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+8/19/22 3:28:37 PM :Info: Loaded All known ini sections
+8/19/22 3:28:37 PM :Info: Parsed and validated ini "mainController.ini" in : 160ms.
+8/19/22 3:28:37 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:28:37 PM :Info: Read file speeduinoSupplement.ecu: 18.522009ms
+8/19/22 3:28:37 PM :Info: Filtered ini: 0.11668ms
+8/19/22 3:28:37 PM :Info: No iniVersion defined
+8/19/22 3:28:37 PM :Info: Loading Trigger Wheels
+8/19/22 3:28:37 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+8/19/22 3:28:37 PM :Info: Validate Expressions disabled.
+8/19/22 3:28:37 PM :Info: Loaded All known ini sections
+8/19/22 3:28:37 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 25ms.
+8/19/22 3:28:37 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+8/19/22 3:28:37 PM :Info: Time to load primary config: 216.05962ms. used cached config: false
+8/19/22 3:28:37 PM :Debug: set baud to 115200
+8/19/22 3:28:37 PM :Debug: Adding Configuration: Alfa GTV
+8/19/22 3:28:37 PM :Debug: controllerOnline = 0.0
+8/19/22 3:28:37 PM :Debug: controllerOnline = 0.0
+8/19/22 3:28:37 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+8/19/22 3:28:37 PM :Debug: Deactivating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+8/19/22 3:28:37 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+8/19/22 3:28:37 PM :Debug: Fill Constants: 14
+8/19/22 3:28:37 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 3:28:37 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 3:28:37 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:37 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:37 PM :Debug: Flush lasted: 71ms.
+8/19/22 3:28:37 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:37 PM :Info: dirtyData.size(): 0
+8/19/22 3:28:37 PM :Debug: Flush lasted: 75ms.
+8/19/22 3:28:37 PM :Debug: Skip Burn, last write page: -2
+8/19/22 3:28:37 PM :Info: !!! Loaded config in 629
+8/19/22 3:28:37 PM :Info: !!! Activated Project 770
+8/19/22 3:28:37 PM :Info: Opening Gauge Cluster..
+8/19/22 3:28:38 PM :Info: Time to load uncached dash: 86.919106ms, file: dashboard.dash
+8/19/22 3:28:38 PM :Debug: High Speed Paint: false
+8/19/22 3:28:38 PM :Info: 
+8/19/22 3:28:38 PM :Info: Com Thread created: COMM Thread6214.5780059086
+8/19/22 3:28:38 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread6214.5780059086
+8/19/22 3:28:38 PM :Debug: Port not valid: Unable to open port: /dev/cu.usbmodem141101
+Please check your Communications Settings. 
+8/19/22 3:28:38 PM :Info: EventTrigger: Alfa GTV.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+8/19/22 3:28:38 PM :Info: Time to load uncached dash: 841.7293ms, file: new.dash
+8/19/22 3:28:38 PM :Debug: High Speed Paint: false
+8/19/22 3:28:39 PM :Info: Time to load uncached dash: 134.3945ms, file: newnew.dash
+8/19/22 3:28:39 PM :Debug: High Speed Paint: true
+8/19/22 3:28:39 PM :Debug: !!! Opened Dash 2020
+8/19/22 3:28:39 PM :Info: Alfa GTV Ready
+8/19/22 3:28:39 PM :Debug: Tuning View Files loaded in 1.198019ms.
+MSad: No check, last update check=Thu Aug 18 17:55:08 CEST 2022
+8/19/22 3:28:46 PM :Debug: goOffline Starting, Time:0
+8/19/22 3:28:46 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 3:28:46 PM :Debug: goOffline about to stopProcessing, Time:1
+8/19/22 3:28:46 PM :Debug: goOffline Starting, Time:0
+8/19/22 3:28:46 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 3:28:46 PM :Debug: goOffline about to stopProcessing, Time:0
+8/19/22 3:28:46 PM :Debug: goOffline closed port, Time:1
+8/19/22 3:28:46 PM :Debug: goOffline closed port, Time:0
+8/19/22 3:28:46 PM :Debug: set baud to 115200
+8/19/22 3:28:46 PM :Debug: set baud to 115200
+8/19/22 3:28:46 PM :Info: Alfa GTV ComThread stopped COMM Thread6214.5780059086
+8/19/22 3:28:46 PM :Debug: goOffline comm thread stopped, Time:157
+8/19/22 3:28:46 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:28:46 PM :Debug: goOffline comm thread stopped, Time:503
+8/19/22 3:28:46 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:29:03 PM :Debug: set baud to 115200
+8/19/22 3:29:03 PM :Info: Com Thread created: COMM Thread80790.69928256689
+8/19/22 3:29:03 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread80790.69928256689
+8/19/22 3:29:04 PM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread80790.69928256689
+8/19/22 3:29:21 PM :Debug: ############################################# Save Project Backup ##########################################
+8/19/22 3:29:21 PM :Debug: TuneLog Editor set text
+8/19/22 3:29:21 PM :Debug: Fill Constants: 8
+8/19/22 3:29:21 PM :Info: Skip Restore Point for 'Alfa GTV' because nothing changed since: Alfa GTV_2022-08-19_15.28.32.msq
+8/19/22 3:29:21 PM :Info: Time to save msq: 7.023685
+8/19/22 3:29:21 PM :Debug: goOffline Starting, Time:0
+8/19/22 3:29:21 PM :Info: Deactivated Turbo Baud, goOffline
+8/19/22 3:29:21 PM :Debug: goOffline about to stopProcessing, Time:0
+8/19/22 3:29:21 PM :Debug: goOffline closed port, Time:0
+8/19/22 3:29:22 PM :Info: Alfa GTV ComThread stopped COMM Thread80790.69928256689
+8/19/22 3:29:22 PM :Debug: goOffline comm thread stopped, Time:1332
+8/19/22 3:29:22 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:29:22 PM :Debug: removing Configuration: Alfa GTV
+8/19/22 3:29:32 PM :Debug: Swing Event Thread not heard from in 10 seconds, assuming dead lock. Printing all stacks
+Thread Java2D Disposer
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:745)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread SwingWorker-pool-1-thread-6
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread Java2D Queue Flusher
+	at java.lang.Object.wait(Native Method)
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.run(OGLRenderQueue.java:203)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread OfflineTuneSaver
+	at java.lang.Thread.sleep(Native Method)
+	at aJ.iV.run(Unknown Source)
+Thread OutputChannel Publisher
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:502)
+	at F.cp.run(Unknown Source)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread Image Animator 0
+	at java.lang.Thread.sleep(Native Method)
+	at sun.awt.image.GifFrame.dispose(GifImageDecoder.java:670)
+	at sun.awt.image.GifImageDecoder.produceImage(GifImageDecoder.java:247)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:269)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:205)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:169)
+Thread SwingWorker-pool-1-thread-1
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread Thread-222 - TS Shutdown Hook
+	at sun.lwawt.macosx.CCursorManager.nativeGetCursorPosition(Native Method)
+	at sun.lwawt.macosx.CCursorManager.getCursorPosition(CCursorManager.java:54)
+	at sun.lwawt.LWCursorManager.updateCursorImpl(LWCursorManager.java:80)
+	at sun.lwawt.LWCursorManager.updateCursor(LWCursorManager.java:57)
+	at sun.lwawt.LWComponentPeer.updateCursorImmediately(LWComponentPeer.java:896)
+	at java.awt.Component.updateCursorImmediately(Component.java:3147)
+	at java.awt.Component.disable(Component.java:1545)
+	at javax.swing.JComponent.disable(JComponent.java:3639)
+	at java.awt.Component.enable(Component.java:1517)
+	at java.awt.Component.setEnabled(Component.java:1480)
+	at javax.swing.JComponent.setEnabled(JComponent.java:2680)
+	at aJ.iZ.e(Unknown Source)
+	at aJ.gx.b(Unknown Source)
+	at F.T.c(Unknown Source)
+	at F.T.b(Unknown Source)
+	at F.T.b(Unknown Source)
+	at aJ.g.g(Unknown Source)
+	at g.run(Unknown Source)
+Thread DeadLockMonitor
+	at java.lang.Thread.dumpThreads(Native Method)
+	at java.lang.Thread.getAllStackTraces(Thread.java:1603)
+	at bl.a.c(Unknown Source)
+	at bl.a.a(Unknown Source)
+	at bl.c.run(Unknown Source)
+Thread SendCaller
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:502)
+	at ah.j.run(Unknown Source)
+Thread TimedStoreAccumulated
+	at java.lang.Thread.sleep(Native Method)
+	at H.m.run(Unknown Source)
+Thread TopEnableDelay
+	at java.lang.Thread.sleep(Native Method)
+	at aJ.gn.run(Unknown Source)
+Thread MessageMonitor
+	at java.lang.Thread.sleep(Native Method)
+	at Q.b.run(Unknown Source)
+Thread HighSpeedLogger Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.tunerStudio.panels.aj.run(Unknown Source)
+Thread SwingWorker-pool-1-thread-2
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread TimerQueue
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:211)
+	at javax.swing.TimerQueue.run(TimerQueue.java:171)
+	at java.lang.Thread.run(Thread.java:745)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread Reference Handler
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+Thread SwingWorker-pool-1-thread-3
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread CommDebugLogWriter
+	at java.lang.Object.wait(Native Method)
+	at F.P.run(Unknown Source)
+Thread AppKit Thread
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1245)
+	at java.lang.Thread.join(Thread.java:1319)
+	at java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:106)
+	at java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+	at java.lang.Shutdown.runHooks(Shutdown.java:123)
+	at java.lang.Shutdown.sequence(Shutdown.java:167)
+	at java.lang.Shutdown.exit(Shutdown.java:212)
+	at java.lang.Runtime.exit(Runtime.java:109)
+	at java.lang.System.exit(System.java:971)
+	at com.apple.eawt._AppEventHandler.performQuit(_AppEventHandler.java:145)
+	at com.apple.eawt.QuitResponse.performQuit(QuitResponse.java:51)
+	at com.apple.eawt._AppEventHandler$_QuitDispatcher.performDefaultAction(_AppEventHandler.java:390)
+	at com.apple.eawt._AppEventHandler$_AppEventDispatcher.dispatch(_AppEventHandler.java:512)
+	at com.apple.eawt._AppEventHandler.handleNativeNotification(_AppEventHandler.java:202)
+Thread Thread-9
+	at java.lang.Thread.sleep(Native Method)
+	at f.run(Unknown Source)
+Thread Finalizer
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread File Change monitor
+	at java.lang.Object.wait(Native Method)
+	at V.B.a(Unknown Source)
+	at V.B.run(Unknown Source)
+Thread Generic Paint Throttle
+	at java.lang.Thread.sleep(Native Method)
+	at com.efiAnalytics.ui.dk.run(Unknown Source)
+Thread DataUpdateThread
+	at java.lang.Object.wait(Native Method)
+	at F.av.run(Unknown Source)
+Thread PortChangeMonitor
+	at java.lang.Thread.sleep(Native Method)
+	at aw.c.run(Unknown Source)
+Thread Signal Dispatcher
+Thread SwingWorker-pool-1-thread-4
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread AWT-EventQueue-0
+	at sun.lwawt.macosx.CCursorManager.nativeGetCursorPosition(Native Method)
+	at sun.lwawt.macosx.CCursorManager.getCursorPosition(CCursorManager.java:54)
+	at sun.lwawt.LWCursorManager.updateCursorImpl(LWCursorManager.java:80)
+	at sun.lwawt.LWCursorManager.updateCursor(LWCursorManager.java:57)
+	at sun.lwawt.LWComponentPeer.updateCursorImmediately(LWComponentPeer.java:896)
+	at java.awt.Component.updateCursorImmediately(Component.java:3147)
+	at java.awt.Container.validate(Container.java:1642)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:711)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.validateInvalidComponents(RepaintManager.java:708)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1731)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Thread AWT-Shutdown
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:502)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:295)
+	at java.lang.Thread.run(Thread.java:745)
+Thread SwingWorker-pool-1-thread-5
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Thread DestroyJavaVM
+8/19/22 3:30:11 PM :Debug: hid: 494.54034
+Starting on MacBook-von-Alessandro.local
+TunerStudio 3.1.08 started on Fri Aug 19 15:30:11 CEST 2022
+JRE 1.8.0_91, Mac OS X 10.16, x86_64
+java.library.path=/Users/ale/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Mac OS X, ClassName:'com.apple.laf.AquaLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:de.muntjak.tinylookandfeel.TinyLookAndFeel
+TinyLaF v1.4.0
+Theme: jar:file:/Applications/TunerStudio_MS.app/Contents/Java/TunerStudioMS.jar!/Default.theme
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.
+ScrollBar.width
+8/19/22 3:30:14 PM :Debug: no update:defaultFont
+8/19/22 3:30:14 PM :Info: Initializing File Dialogs.
+8/19/22 3:30:14 PM :Info: Updating ai & t
+8/19/22 3:30:15 PM :Info: Loading Language Content.
+8/19/22 3:30:17 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+8/19/22 3:30:17 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+8/19/22 3:30:17 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+8/19/22 3:30:17 PM :Info: Initializing Plugin Services.
+8/19/22 3:30:17 PM :Info: Loading Plugins.
+8/19/22 3:30:17 PM :Info: Initializing Help.
+8/19/22 3:30:17 PM :Info: Initializing Edition Features.
+8/19/22 3:30:17 PM :Info: Initializing App Events.
+8/19/22 3:30:17 PM :Debug: App Name:TunerStudio, appEdition:MS
+8/19/22 3:30:17 PM :Info: Initializing User Interface
+8/19/22 3:30:19 PM :Info: Loading Font list.
+Warning: the font "Times" is not available, so "Lucida Bright" has been substituted, but may have unexpected appearance or behavor. Re-enable the "Times" font to remove this warning.
+8/19/22 3:30:19 PM :Debug: Time to retreive font name list: 100 ms.
+8/19/22 3:30:19 PM :Info: 
+8/19/22 3:30:19 PM :Info: Initializing UI Components.
+8/19/22 3:30:19 PM :Info: Ready
+8/19/22 3:30:20 PM :Info: Opening Project ...
+8/19/22 3:30:20 PM :Debug: Opening project: /Users/ale/Projects/AlfaTunes/Alfa GTV
+8/19/22 3:30:20 PM :Debug: EventTrigger Data log Reset. expression: 
+8/19/22 3:30:20 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+8/19/22 3:30:20 PM :Debug: Reading translation file as plain text
+8/19/22 3:30:20 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:30:20 PM :Debug: Filtered ConfigurationOptionGroup in 22ms.
+8/19/22 3:30:20 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:30:20 PM :Info: Read file canPcVariables.ini: 0.50503ms
+8/19/22 3:30:20 PM :Info: Filtered ini: 0.081216ms
+8/19/22 3:30:20 PM :Info: No iniVersion defined
+8/19/22 3:30:20 PM :Info: Loading Trigger Wheels
+8/19/22 3:30:20 PM :Info: Loaded All known ini sections
+8/19/22 3:30:20 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 19ms.
+8/19/22 3:30:20 PM :Info: Read file mainController.ini: 25.458384ms
+8/19/22 3:30:20 PM :Info: Filtered ini: 4.064777ms
+8/19/22 3:30:20 PM :Info: No iniVersion defined
+8/19/22 3:30:20 PM :Debug: ini signature: speeduino 202204-dev
+8/19/22 3:30:20 PM :Info: Loading Trigger Wheels
+8/19/22 3:30:20 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+8/19/22 3:30:20 PM :Info: Loaded All known ini sections
+8/19/22 3:30:20 PM :Info: Parsed and validated ini "mainController.ini" in : 277ms.
+8/19/22 3:30:20 PM :Info: Supported iniSpecVersion=3.71
+8/19/22 3:30:20 PM :Info: Read file speeduinoSupplement.ecu: 18.712786ms
+8/19/22 3:30:20 PM :Info: Filtered ini: 0.253761ms
+8/19/22 3:30:20 PM :Info: No iniVersion defined
+8/19/22 3:30:20 PM :Info: Loading Trigger Wheels
+8/19/22 3:30:20 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+MSmain: No check, last update check=Thu Aug 18 17:55:04 CEST 2022
+8/19/22 3:30:20 PM :Info: Validate Expressions disabled.
+8/19/22 3:30:20 PM :Info: Loaded All known ini sections
+8/19/22 3:30:20 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 33ms.
+8/19/22 3:30:20 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+8/19/22 3:30:20 PM :Info: Time to load primary config: 483.6793ms. used cached config: false
+8/19/22 3:30:21 PM :Debug: set baud to 115200
+8/19/22 3:30:21 PM :Debug: Adding Configuration: Alfa GTV
+8/19/22 3:30:21 PM :Debug: controllerOnline = 0.0
+8/19/22 3:30:21 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+8/19/22 3:30:21 PM :Debug: Fill Constants: 20
+8/19/22 3:30:21 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 3:30:21 PM :Info: Tune opened, 3354 bytes updated. File:/Users/ale/Projects/AlfaTunes/Alfa GTV/CurrentTune.msq
+8/19/22 3:30:21 PM :Info: dirtyData.size(): 0
+8/19/22 3:30:21 PM :Info: dirtyData.size(): 0
+8/19/22 3:30:21 PM :Debug: Flush lasted: 76ms.
+8/19/22 3:30:21 PM :Info: dirtyData.size(): 0
+8/19/22 3:30:21 PM :Info: dirtyData.size(): 0
+8/19/22 3:30:21 PM :Debug: Flush lasted: 1ms.
+8/19/22 3:30:21 PM :Debug: Skip Burn, last write page: -2
+8/19/22 3:30:21 PM :Info: !!! Loaded config in 861
+8/19/22 3:30:21 PM :Info: !!! Activated Project 1251
+8/19/22 3:30:21 PM :Info: Opening Gauge Cluster..
+8/19/22 3:30:21 PM :Info: Time to load uncached dash: 187.86852ms, file: dashboard.dash
+8/19/22 3:30:21 PM :Debug: High Speed Paint: false
+8/19/22 3:30:21 PM :Info: 
+8/19/22 3:30:21 PM :Info: Com Thread created: COMM Thread80970.21425211347
+8/19/22 3:30:21 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+8/19/22 3:30:21 PM :Info: Comm Manager for Alfa GTV Started, thread ID: COMM Thread80970.21425211347
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+8/19/22 3:30:22 PM :Info: EventTrigger: Alfa GTV.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+8/19/22 3:30:22 PM :Info: Time to load uncached dash: 572.8179ms, file: new.dash
+8/19/22 3:30:22 PM :Debug: High Speed Paint: false
+8/19/22 3:30:23 PM :Info: Time to load uncached dash: 284.97318ms, file: newnew.dash
+8/19/22 3:30:23 PM :Debug: High Speed Paint: true
+8/19/22 3:30:23 PM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread80970.21425211347
+8/19/22 3:30:23 PM :Debug: !!! Opened Dash 2809
+8/19/22 3:30:23 PM :Info: Alfa GTV Ready
+8/19/22 3:30:23 PM :Debug: Tuning View Files loaded in 0.218963ms.
+MSad: No check, last update check=Thu Aug 18 17:55:08 CEST 2022
+
+8/19/22 3:30:26 PM :Debug: Purged 4 orphaned bytes:
+8/19/22 3:30:26 PM :Debug: Time:5.778s. 0x3F 0xBA 0x6C 0xAD 
+8/19/22 3:30:26 PM :Debug: Time:5.778s. 
+
+8/19/22 3:30:26 PM :Debug: Time:5.779s.   ?    .    l    .  
+8/19/22 3:30:28 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x32 x30 x34       speeduino.202204
+x2D x64 x65 x76                                                       -dev
+8/19/22 3:30:29 PM :Info: Communicating with sig:speeduino 202204-dev, Speeduino 2022.04-dev
+8/19/22 3:30:29 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+8/19/22 3:30:29 PM :Debug: controllerOnline = 1.0
+8/19/22 3:30:29 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:30:29 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:1
+8/19/22 3:30:29 PM :Debug: CRC matches for page 2:x3E x0E x4D x29                                                       >.M)
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:2
+8/19/22 3:30:29 PM :Debug: CRC matches for page 3:x23 xCE x22 x9A                                                       #.".
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:3
+8/19/22 3:30:29 PM :Debug: CRC matches for page 4:x8A xCE xC6 x41                                                       ...A
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:4
+8/19/22 3:30:29 PM :Debug: CRC matches for page 5:x4A x0A xD6 x2F                                                       J../
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 3:30:29 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:6
+8/19/22 3:30:29 PM :Debug: CRC matches for page 7:x91 xDF xF8 xA5                                                       ....
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:7
+8/19/22 3:30:29 PM :Debug: CRC matches for page 8:x3D xCA x61 x38                                                       =.a8
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:8
+8/19/22 3:30:29 PM :Debug: CRC matches for page 9:x22 xEF x60 x35                                                       ".`5
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:9
+8/19/22 3:30:29 PM :Debug: CRC matches for page 10:xA1 x77 xBA x29                                                       .w.)
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:10
+8/19/22 3:30:29 PM :Debug: CRC matches for page 11:x57 xA5 x55 xF5                                                       W.U.
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:11
+8/19/22 3:30:29 PM :Debug: CRC matches for page 12:xB7 x1D x44 x9B                                                       ..D.
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:12
+8/19/22 3:30:29 PM :Debug: CRC matches for page 13:x5B x10 x34 xEB                                                       [.4.
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:13
+8/19/22 3:30:29 PM :Debug: CRC matches for page 14:xEB xD4 xA8 x35                                                       ...5
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:14
+8/19/22 3:30:29 PM :Debug: CRC matches for page 15:x0D x96 x85 x58                                                       ...X
+8/19/22 3:30:29 PM :Info: CrC matched skipped controller read on page:15
+8/19/22 3:30:29 PM :Debug: Read All Data
+8/19/22 3:30:29 PM :Debug: isBlank Time: 0 ms.
+8/19/22 3:30:29 PM :Debug: DiffTime: 36 ms.
+8/19/22 3:30:35 PM :Info: Auto Logging: Stopped Logging
+8/19/22 3:30:35 PM :Debug: EventTrigger Stop Data log Triggered. expression: 
+8/19/22 3:30:35 PM :Debug: Starting Log for 1 Configs.
+8/19/22 3:30:35 PM :Debug: Time to subscribe all data log channels: 4.903152
+8/19/22 3:30:35 PM :Debug: MLG header created
+8/19/22 3:30:35 PM :Info: Started Data Log to file: /Users/ale/Projects/AlfaTunes/Alfa GTV/DataLogs/2022-08-19_15.30.35.mlg
+8/19/22 3:30:35 PM :Info: Channels active on main config Alfa GTV: 109
+8/19/22 3:30:35 PM :Info: Capturing DataLog
+8/19/22 3:30:35 PM :Debug: Skipping Record: nanCount=57
+8/19/22 3:30:35 PM :Debug: Skipping Record: nanCount=57
+8/19/22 3:30:35 PM :Debug: Skipping Record: nanCount=57
+8/19/22 3:31:26 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 3:31:26 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 3:31:26 PM :Info: Initiating read page 1 : 3:96
+8/19/22 3:31:26 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 3:31:26 PM :Info: Initiating read page 6 : 15:12
+8/19/22 3:31:26 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 3:31:26 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 3:31:26 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 3:31:26 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 3:31:29 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 3:31:31 PM :Info: dirtyData.size(): 0
+8/19/22 3:31:31 PM :Info: dirtyData.size(): 0
+8/19/22 3:31:31 PM :Debug: Flush lasted: 71ms.
+8/19/22 3:31:31 PM :Debug: Burn Page anonymous: 1
+8/19/22 3:31:31 PM :Debug: Received Instruction: , Page: 1
+8/19/22 3:31:31 PM :Info: Queueing burn to page:1
+8/19/22 3:31:31 PM :Debug: Burn time:9ms.
+8/19/22 3:31:31 PM :Debug: burned page 1
+8/19/22 3:31:31 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:31:31 PM :Debug: CRC matches for page 1:x16 x75 x5B xB4                                                       .u[.
+8/19/22 3:31:32 PM :Info: Time to save msq: 182.23001
+8/19/22 3:31:39 PM :Info: dirtyData.size(): 0
+8/19/22 3:31:39 PM :Info: dirtyData.size(): 0
+8/19/22 3:31:39 PM :Debug: Flush lasted: 74ms.
+8/19/22 3:31:39 PM :Debug: Burn Page anonymous: -1
+8/19/22 3:31:39 PM :Debug: Received Instruction: , Page: 1
+8/19/22 3:31:39 PM :Info: skip burn to page:1, lastWritePage = -2
+8/19/22 3:31:39 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+8/19/22 3:32:08 PM :Info: Time to load uncached dash: 17.357391ms, file: veAnalyze_veTable1Tbl.dash
+8/19/22 3:32:08 PM :Debug: High Speed Paint: true
+8/19/22 3:32:08 PM :Info: Time to load uncached dash: 32.57534ms, file: veAnalyze_veTable1Tbl_histogram.dash
+8/19/22 3:32:08 PM :Debug: High Speed Paint: true
+8/19/22 3:32:08 PM :Info: Time to load uncached dash: 32.48102ms, file: veAnalyze_fuelTable2Tbl.dash
+8/19/22 3:32:08 PM :Debug: High Speed Paint: true
+8/19/22 3:32:08 PM :Info: Time to load uncached dash: 56.218388ms, file: veAnalyze_fuelTable2Tbl_histogram.dash
+8/19/22 3:32:08 PM :Debug: High Speed Paint: true
+8/19/22 3:32:08 PM :Info: Time to load uncached dash: 28.97048ms, file: wueAnalyze_warmup_analyzer_curve.dash
+8/19/22 3:32:08 PM :Debug: High Speed Paint: true
+8/19/22 3:32:09 PM :Info: Time to load uncached dash: 57.869617ms, file: wueAnalyze_warmup_analyzer_curve_histogram.dash
+8/19/22 3:32:09 PM :Debug: High Speed Paint: true
+8/19/22 3:32:33 PM :Warning: helpTopic https://wiki.speeduino.com/en/configuration/Injector_Characteristics is set for dialog, but not found in ini.
+8/19/22 3:32:33 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+8/19/22 3:32:33 PM :Info: Initiating read page 1 : 3:96
+8/19/22 3:32:33 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+8/19/22 3:32:33 PM :Debug: CRC matches for page 1:x16 x75 x5B xB4                                                       .u[.
+8/19/22 3:32:33 PM :Info: CrC matched skipped controller read on page:0
+8/19/22 3:32:33 PM :Info: Initiating read page 6 : 15:12
+8/19/22 3:32:33 PM :Debug: CRC matches for page 6:x6F xB1 xEF x73                                                       o..s
+8/19/22 3:32:33 PM :Info: CrC matched skipped controller read on page:5
+8/19/22 3:32:42 PM :Debug: Received Instruction: Write Chunk, Page: 1
+8/19/22 3:32:44 PM :Info: dirtyData.size(): 0
+8/19/22 3:32:44 PM :Info: dirtyData.size(): 0
+8/19/22 3:32:44 PM :Debug: Flush lasted: 74ms.
+8/19/22 3:32:44 PM :Debug: Burn Page anonymous: 1
+8/19/22 3:32:44 PM :Debug: Received Instruction: , Page: 1
+8/19/22 3:32:44 PM :Info: Queueing burn to page:1
+8/19/22 3:32:44 PM :Debug: Burn time:10ms.
+8/19/22 3:32:44 PM :Debug: burned page 1
+8/19/22 3:32:44 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:32:44 PM :Debug: CRC matches for page 1:x7B xA3 xD5 xB3                                                       {...
+8/19/22 3:32:45 PM :Info: dirtyData.size(): 0
+8/19/22 3:32:45 PM :Info: dirtyData.size(): 0
+8/19/22 3:32:45 PM :Debug: Flush lasted: 73ms.
+8/19/22 3:32:45 PM :Debug: Burn Page anonymous: -1
+8/19/22 3:32:45 PM :Debug: Received Instruction: , Page: 1
+8/19/22 3:32:45 PM :Info: skip burn to page:1, lastWritePage = -2
+8/19/22 3:32:45 PM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+8/19/22 3:32:45 PM :Info: Time to save msq: 24.322388
+8/19/22 3:35:17 PM :Info: Logger Processor stopped.
+8/19/22 3:35:17 PM :Info: Logger Processor stopped.
+8/19/22 3:35:17 PM :Info: Logger Processor stopped.
+8/19/22 3:35:17 PM :Info: Logger Processor stopped.
+8/19/22 3:35:17 PM :Info: Time to load uncached dash: 25.140188ms, file: IgnitionLoggerCluster.dash
+8/19/22 3:35:17 PM :Debug: High Speed Paint: true
+8/19/22 3:35:17 PM :Debug: Deactivated fast paint IgnitionLoggerCluster
+8/19/22 3:35:21 PM :Info: Data log stopped
+8/19/22 3:35:22 PM :Debug: QueuingOutputStream: Flushing Queue, size=1
+8/19/22 3:35:22 PM :Info: FileOutputStream Closed.
+8/19/22 3:35:35 PM :Info: Auto Logging: Stopped Logging
+8/19/22 3:35:35 PM :Debug: EventTrigger Stop Data log Triggered. expression: 
+8/19/22 3:35:35 PM :Debug: Starting Log for 1 Configs.
+8/19/22 3:35:35 PM :Debug: Time to subscribe all data log channels: 0.094703
+8/19/22 3:35:35 PM :Debug: MLG header created
+8/19/22 3:35:35 PM :Info: Started Data Log to file: /Users/ale/Projects/AlfaTunes/Alfa GTV/DataLogs/2022-08-19_15.35.35.mlg
+8/19/22 3:35:35 PM :Info: Channels active on main config Alfa GTV: 108
+8/19/22 3:35:35 PM :Info: Capturing DataLog
+8/19/22 3:35:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:35:35 PM :Debug: FullScreen
+8/19/22 3:35:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:35:35 PM :Debug: Skipping Record: nanCount=55
+8/19/22 3:35:43 PM :Info: Data log stopped
+8/19/22 3:35:44 PM :Info: FileOutputStream Closed.
+8/19/22 3:35:54 PM :Info: Re-establishing connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 3:35:54 PM :Warning: Failed to re-establish connection to: RS232: Port:/dev/cu.usbmodem141101, Baud:115200
+8/19/22 3:35:54 PM :Info: Connection Check failed, forcing offline.
+8/19/22 3:35:55 PM :Debug: controllerOnline = 0.0
+8/19/22 3:35:55 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:35:55 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:35:55 PM :Debug: Went offline
+8/19/22 3:35:55 PM :Debug: controllerOnline = 0.0
+8/19/22 3:35:55 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+8/19/22 3:35:55 PM :Debug: No Remaining Queue Write instructions
+8/19/22 3:35:55 PM :Info: Went offline 2
+8/19/22 3:35:55 PM :Debug: Port not valid: Unable to open port: /dev/cu.usbmodem141101
+Please check your Communications Settings. 
