@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Sep 07 14:09:01 CEST 2022
-#Wed Sep 07 14:09:01 CEST 2022
+#Last Saved on: Thu Sep 08 17:31:34 CEST 2022
+#Thu Sep 08 17:31:34 CEST 2022
 fuelpumpFuel\ pump_height=199
 iacClosedLoop_curveIdle\ RPM\ Targets_height=293
 fanSettingsFan\ Settings_width=404
@@ -52,7 +52,7 @@ iat_retard_curveIAT\ timing\ retard_X=0
 afrTable1TblAFR\ Table_height=432
 time_accel_tpsdot_curve_showText=true
 LaunchControlLaunch\ Control\ /\ Flat\ shift_width=380
-CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
 boostSettingsBoost\ Control_Y=86
 boostSettingsBoost\ Control_X=530
 Alfa\ GTV.veTable1Tbl_std_xAxisMin=900.0
@@ -75,14 +75,14 @@ inj_trimadInjector\ Cyl\ 1-4\ Trims_height=837
 userDash1.FileName=newnew.dash
 VeAnalyzePanel_veTable1Tbl_maxWeight=1.7976931348623157E308
 idleAdvanceSettingsIdle\ Advance\ Settings_height=543
-CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbmodem141101
+CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbmodem14101
 veTableDialogVE\ Table_Y=51
 veTableDialogVE\ Table_X=336
 flexFuelingFuel\ Sensor\ Settings_height=620
 afrProtectAFR\ Protection_Y=486
 useCommonDashboardDir=false
 afrProtectAFR\ Protection_X=593
-CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbmodem141101
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbmodem14101
 NitrousControlNitrous_height=634
 LaunchControlLaunch\ Control\ /\ Flat\ shift_height=498
 airdensity_curveIAT\ density\ correction_width=502
@@ -93,7 +93,7 @@ refTable_001_txtTemp2=80.0
 refTable_001_txtTemp1=0.0
 VeAnalyzePanel_veTable1Tbl_weightThreshold=0.0
 RevLimiterSEngine\ Protection\ and\ Limiters_height=400
-CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMacBook-von-Alessandro.localCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
 engine_constantsEngine\ Constants_Y=209
 engine_constantsEngine\ Constants_X=451
 idleAdvanceSettingsIdle\ Advance\ Settings_width=1294
@@ -289,14 +289,14 @@ sparkSettingsSpark\ Settings_height=434
 fuelpumpFuel\ pump_width=348
 2DTable_fuelTable2Tbl_tableInitialDir=/Users/ale
 ASEAfterstart\ Enrichment(ASE)_Y=40
-crankPWCranking\ Settings_Y=41
 ASEAfterstart\ Enrichment(ASE)_X=459
+crankPWCranking\ Settings_Y=41
 crankPWCranking\ Settings_X=705
 VeAnalyzePanel_fuelTable2Tbl_weightThreshold=0.0
-clt_advance_curveCold\ Advance_height=504
 VeAnalyzePanel_veTable1Tbl_minChangeThreshold=0.0
-ecuConfigFile=mainController.ini
+clt_advance_curveCold\ Advance_height=504
 dashBoardFile=/dashboard//dashboard.dash
+ecuConfigFile=mainController.ini
 sparkTable2DialogSpark\ Table\ 2_Y=253
 sparkTable2DialogSpark\ Table\ 2_X=662
 Alfa\ GTV.fuelTable2Tbl_std_yAxisMin=20.0
