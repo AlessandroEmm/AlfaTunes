@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Tue Sep 13 08:32:24 CEST 2022"/>
-<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+202207" nPages="15" signature="speeduino 202207"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Fri Sep 09 16:47:29 CEST 2022"/>
+<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2022.10-dev" nPages="15" signature="speeduino 202210-dev"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -491,12 +491,8 @@
 <constant digits="0" name="maeThresh" units="kPa/s">70.0</constant>
 <constant digits="0" name="taeThresh" units="%/s">20.0</constant>
 <constant digits="0" name="aeTime" units="ms">200.0</constant>
-<constant name="display">"Unused"</constant>
-<constant name="display1">"RPM"</constant>
-<constant name="display2">"O2"</constant>
-<constant name="display3">"RPM"</constant>
-<constant name="display4">"O2"</constant>
-<constant name="display5">"RPM"</constant>
+<constant digits="1" name="taeMinChange" units="%">0.5</constant>
+<constant digits="0" name="maeMinChange" units="kPa">2.0</constant>
 <constant name="displayB1">"RPM"</constant>
 <constant name="displayB2">"RPM"</constant>
 <constant digits="1" name="reqFuel" units="ms">6.4</constant>
@@ -637,7 +633,7 @@
 </page>
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
-         33.0 29.0 30.0 18.0 16.0 13.0 10.0 10.0 10.0 28.0 64.0 67.0 69.0 68.0 68.0 66.0 
+         33.0 25.0 22.0 18.0 16.0 13.0 10.0 10.0 10.0 28.0 64.0 67.0 69.0 68.0 68.0 66.0 
          39.0 28.0 26.0 26.0 20.0 16.0 13.0 13.0 21.0 48.0 65.0 69.0 71.0 71.0 71.0 74.0 
          44.0 35.0 34.0 32.0 25.0 22.0 17.0 14.0 24.0 48.0 64.0 71.0 74.0 73.0 74.0 75.0 
          59.0 35.0 36.0 33.0 27.0 21.0 15.0 13.0 25.0 45.0 60.0 71.0 76.0 76.0 77.0 80.0 
@@ -1858,13 +1854,13 @@
 <constant digits="0" name="vvtCLMinAng" units="deg">0.0</constant>
 <constant digits="0" name="vvtCLMaxAng" units="deg">0.0</constant>
 <constant digits="1" name="crankingEnrichTaper" units="s">0.1</constant>
-<constant name="fuelPressureEnable">"On"</constant>
+<constant name="fuelPressureEnable">"Off"</constant>
 <constant name="oilPressureEnable">"Off"</constant>
 <constant name="oilPressureProtEnbl">"Off"</constant>
 <constant name="oilPressurePin">"A0"</constant>
-<constant name="fuelPressurePin">"A8"</constant>
-<constant digits="2" name="fuelPressureMin" units="BAR">-0.8376</constant>
-<constant digits="2" name="fuelPressureMax" units="BAR">7.8176</constant>
+<constant name="fuelPressurePin">"A0"</constant>
+<constant digits="2" name="fuelPressureMin" units="BAR">0.0</constant>
+<constant digits="2" name="fuelPressureMax" units="BAR">0.0</constant>
 <constant digits="2" name="oilPressureMin" units="BAR">0.0</constant>
 <constant digits="2" name="oilPressureMax" units="BAR">0.0</constant>
 <constant cols="1" digits="2" name="oilPressureProtMins" rows="4" units="BAR">
