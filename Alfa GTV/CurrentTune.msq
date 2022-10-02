@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Tue Sep 13 08:32:24 CEST 2022"/>
-<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+202207" nPages="15" signature="speeduino 202207"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;Restore Point: Project close - &#10;" writeDate="Sun Oct 02 18:48:10 CEST 2022"/>
+<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+202207.1" nPages="15" signature="speeduino 202207"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -26,15 +26,15 @@
          0.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="wueRecommended" rows="10" units="%">
-         212.0 
-         185.0 
-         159.0 
-         152.0 
-         133.0 
-         108.0 
+         155.0 
+         144.0 
+         134.0 
+         131.0 
+         128.0 
+         116.0 
+         107.0 
          104.0 
-         103.0 
-         101.0 
+         102.0 
          100.0 
       </pcVariable>
 <pcVariable cols="1" digits="0" name="boardFuelOutputs" rows="128" units=" ">
@@ -472,15 +472,15 @@
 <constant name="aeApplyMode">"PW Adder"</constant>
 <constant name="multiplyMAP">"Off"</constant>
 <constant cols="1" digits="0" name="wueRates" rows="10" units="%">
-         212.0 
-         185.0 
-         159.0 
-         152.0 
-         133.0 
-         108.0 
-         104.0 
-         103.0 
-         101.0 
+         155.0 
+         144.0 
+         134.0 
+         131.0 
+         128.0 
+         116.0 
+         115.0 
+         113.0 
+         102.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -507,7 +507,7 @@
 <constant name="hardCutType">"Full"</constant>
 <constant name="ignAlgorithm">"TPS"</constant>
 <constant name="indInjAng">"Enabled"</constant>
-<constant digits="1" name="injOpen" units="ms">0.8</constant>
+<constant digits="1" name="injOpen" units="ms">1.0</constant>
 <constant cols="1" digits="0" name="injAng" rows="4" units="deg">
          380.0 
          400.0 
@@ -535,8 +535,8 @@
 <constant digits="0" name="boostMaxDuty" units="%">80.0</constant>
 <constant digits="0" name="tpsMin" units="ADC">5.0</constant>
 <constant digits="0" name="tpsMax" units="ADC">189.0</constant>
-<constant digits="0" name="mapMin" units="kpa">10.0</constant>
-<constant digits="0" name="mapMax" units="kpa">260.0</constant>
+<constant digits="0" name="mapMin" units="kpa">1.0</constant>
+<constant digits="0" name="mapMax" units="kpa">315.0</constant>
 <constant digits="0" name="fpPrime" units="s">4.0</constant>
 <constant digits="1" name="stoich" units=":1">14.7</constant>
 <constant digits="0" name="oddfire2" units="deg">0.0</constant>
@@ -552,7 +552,7 @@
 <constant digits="0" name="iacCLmaxDuty" units="%">0.0</constant>
 <constant digits="0" name="boostMinDuty" units="%">20.0</constant>
 <constant digits="0" name="baroMin" units="kpa">10.0</constant>
-<constant digits="0" name="baroMax" units="kpa">260.0</constant>
+<constant digits="0" name="baroMax" units="kpa">121.0</constant>
 <constant digits="0" name="EMAPMin" units="kpa">10.0</constant>
 <constant digits="0" name="EMAPMax" units="kpa">118.0</constant>
 <constant name="fanWhenOff">"Yes"</constant>
@@ -596,8 +596,8 @@
 <constant name="CTPSEnabled">"Off"</constant>
 <constant name="idleAdvEnabled">"Added"</constant>
 <constant name="idleAdvAlgorithm">"TPS"</constant>
-<constant name="idleAdvDelay">"4.0"</constant>
-<constant digits="0" name="idleAdvRPM" units="rpm">1000.0</constant>
+<constant name="idleAdvDelay">"0.0"</constant>
+<constant digits="0" name="idleAdvRPM" units="rpm">1700.0</constant>
 <constant digits="1" name="idleAdvTPS" units="%">0.5</constant>
 <constant cols="1" digits="0" name="injAngRPM" rows="4" units="RPM">
          700.0 
@@ -637,22 +637,22 @@
 </page>
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
-         33.0 29.0 30.0 18.0 16.0 13.0 10.0 10.0 10.0 28.0 64.0 67.0 69.0 68.0 68.0 66.0 
-         39.0 28.0 26.0 26.0 20.0 16.0 13.0 13.0 21.0 48.0 65.0 69.0 71.0 71.0 71.0 74.0 
-         44.0 35.0 34.0 32.0 25.0 22.0 17.0 14.0 24.0 48.0 64.0 71.0 74.0 73.0 74.0 75.0 
-         59.0 35.0 36.0 33.0 27.0 21.0 15.0 13.0 25.0 45.0 60.0 71.0 76.0 76.0 77.0 80.0 
-         61.0 46.0 40.0 37.0 32.0 29.0 25.0 19.0 24.0 46.0 61.0 72.0 78.0 78.0 80.0 88.0 
-         71.0 48.0 43.0 39.0 36.0 34.0 30.0 25.0 42.0 45.0 57.0 69.0 76.0 75.0 76.0 76.0 
-         61.0 48.0 44.0 39.0 37.0 38.0 35.0 29.0 40.0 45.0 55.0 66.0 74.0 72.0 72.0 74.0 
-         67.0 56.0 46.0 41.0 40.0 39.0 38.0 32.0 43.0 43.0 52.0 67.0 76.0 76.0 76.0 78.0 
-         61.0 59.0 46.0 39.0 40.0 42.0 39.0 36.0 45.0 43.0 52.0 69.0 77.0 79.0 80.0 82.0 
-         85.0 72.0 53.0 43.0 44.0 43.0 42.0 41.0 49.0 42.0 49.0 63.0 67.0 70.0 72.0 74.0 
-         81.0 78.0 65.0 51.0 47.0 47.0 45.0 43.0 50.0 45.0 52.0 69.0 76.0 78.0 78.0 80.0 
-         84.0 87.0 71.0 55.0 48.0 51.0 46.0 45.0 55.0 48.0 56.0 76.0 84.0 85.0 86.0 88.0 
-         86.0 96.0 77.0 59.0 55.0 60.0 54.0 49.0 58.0 46.0 52.0 71.0 80.0 80.0 82.0 84.0 
-         73.0 100.0 87.0 60.0 62.0 64.0 55.0 52.0 56.0 47.0 53.0 77.0 86.0 88.0 90.0 92.0 
-         87.0 100.0 93.0 70.0 67.0 67.0 58.0 52.0 57.0 49.0 59.0 75.0 84.0 85.0 86.0 90.0 
-         90.0 98.0 93.0 60.0 61.0 69.0 57.0 52.0 59.0 48.0 57.0 75.0 80.0 80.0 82.0 84.0 
+         30.0 25.0 25.0 18.0 16.0 19.0 18.0 18.0 18.0 28.0 28.0 28.0 28.0 28.0 28.0 28.0 
+         39.0 37.0 36.0 39.0 32.0 21.0 18.0 18.0 24.0 27.0 39.0 30.0 32.0 32.0 32.0 35.0 
+         35.0 45.0 42.0 40.0 36.0 31.0 24.0 15.0 18.0 27.0 36.0 31.0 35.0 34.0 35.0 36.0 
+         46.0 58.0 49.0 49.0 40.0 35.0 29.0 22.0 21.0 24.0 40.0 33.0 39.0 39.0 41.0 49.0 
+         48.0 61.0 53.0 51.0 50.0 43.0 38.0 33.0 31.0 42.0 42.0 43.0 51.0 49.0 49.0 51.0 
+         52.0 58.0 58.0 54.0 52.0 47.0 45.0 40.0 40.0 40.0 37.0 39.0 44.0 47.0 49.0 51.0 
+         56.0 59.0 72.0 60.0 54.0 55.0 48.0 45.0 46.0 45.0 44.0 52.0 61.0 62.0 63.0 65.0 
+         59.0 60.0 74.0 71.0 70.0 70.0 60.0 56.0 54.0 47.0 42.0 54.0 63.0 65.0 67.0 69.0 
+         90.0 90.0 91.0 87.0 92.0 95.0 81.0 74.0 69.0 70.0 68.0 69.0 70.0 70.0 70.0 70.0 
+         80.0 80.0 80.0 81.0 92.0 94.0 87.0 85.0 85.0 79.0 78.0 79.0 80.0 80.0 80.0 80.0 
+         100.0 100.0 100.0 100.0 102.0 107.0 106.0 101.0 94.0 95.0 94.0 96.0 100.0 100.0 100.0 100.0 
+         110.0 110.0 110.0 110.0 110.0 110.0 113.0 111.0 103.0 103.0 103.0 105.0 110.0 110.0 110.0 110.0 
+         116.0 116.0 116.0 116.0 116.0 116.0 116.0 116.0 117.0 116.0 110.0 113.0 116.0 116.0 116.0 116.0 
+         125.0 125.0 125.0 125.0 125.0 125.0 125.0 125.0 125.0 123.0 122.0 125.0 125.0 125.0 125.0 125.0 
+         140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 140.0 
+         150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 
       </constant>
 <constant cols="1" digits="0" name="rpmBins" rows="16" units="RPM">
          700.0 
@@ -676,24 +676,24 @@
          0.0 
          0.5 
          1.0 
-         1.5 
          2.0 
-         3.0 
          4.0 
-         5.0 
-         6.0 
          8.0 
-         10.0 
          12.0 
-         14.0 
          16.0 
-         18.0 
-         20.0 
+         24.0 
+         32.0 
+         40.0 
+         48.0 
+         56.0 
+         64.0 
+         80.0 
+         100.0 
       </constant>
 </page>
 <page number="2" size="288">
 <constant cols="16" digits="0" name="advTable1" rows="16" units="deg">
-         11.0 11.0 11.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
+         11.0 6.0 6.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
          11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
          11.0 11.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
          11.0 12.0 14.0 16.0 22.0 25.0 28.0 30.0 32.0 33.0 33.0 33.0 33.0 33.0 33.0 33.0 
@@ -782,16 +782,16 @@
 <constant digits="1" name="SoftLimMax" units="s">2.0</constant>
 <constant digits="0" name="hardRevLim" units="rpm">0.0</constant>
 <constant cols="1" digits="0" name="taeBins" rows="4" units="%/s">
-         0.0 
-         170.0 
-         410.0 
-         530.0 
+         20.0 
+         210.0 
+         390.0 
+         490.0 
       </constant>
 <constant cols="1" digits="0" name="taeRates" rows="4" units="%">
-         15.0 
+         0.0 
          71.0 
-         88.0 
-         88.0 
+         85.0 
+         68.0 
       </constant>
 <constant cols="1" digits="0" name="wueBins" rows="10" units="C">
          -40.0 
@@ -800,7 +800,7 @@
          7.0 
          13.0 
          36.0 
-         52.0 
+         51.0 
          60.0 
          64.0 
          68.0 
@@ -852,11 +852,11 @@
          84.0 
       </constant>
 <constant cols="1" digits="0" name="cltAdvValues" rows="6" units="deg">
-         2.0 
-         2.0 
-         2.0 
-         2.0 
-         1.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
          0.0 
       </constant>
 <constant cols="1" digits="0" name="maeBins" rows="4" units="kpa/s">
@@ -871,7 +871,7 @@
          75.0 
          75.0 
       </constant>
-<constant digits="1" name="batVoltCorrect" units="v">0.0</constant>
+<constant digits="1" name="batVoltCorrect" units="v">0.1</constant>
 <constant cols="1" digits="0" name="baroFuelBins" rows="8" units="kPa">
          80.0 
          85.0 
@@ -893,7 +893,7 @@
          100.0 
       </constant>
 <constant cols="1" digits="0" name="idleAdvBins" rows="6" units="RPM">
-         -200.0 
+         -500.0 
          -70.0 
          0.0 
          100.0 
@@ -901,12 +901,12 @@
          430.0 
       </constant>
 <constant cols="1" digits="0" name="idleAdvValues" rows="6" units="deg">
+         -3.0 
+         -2.0 
          0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
+         1.0 
          3.0 
+         4.0 
       </constant>
 <constant digits="0" name="engineProtectMaxRPM" units="rpm">6000.0</constant>
 <constant digits="0" name="vvt2CL0DutyAng" units="deg">-27756.0</constant>
@@ -998,7 +998,7 @@
 <constant digits="0" name="egoRPM" units="rpm">1200.0</constant>
 <constant digits="1" name="egoTPSMax" units="%">70.0</constant>
 <constant name="vvt1Pin">"22"</constant>
-<constant name="useExtBaro">"No"</constant>
+<constant name="useExtBaro">"Yes"</constant>
 <constant name="boostMode">"Simple"</constant>
 <constant name="boostPin">"13"</constant>
 <constant name="tachoMode">"Fixed Duration"</constant>
@@ -1035,7 +1035,7 @@
          116.0 
          107.0 
          100.0 
-         95.0 
+         100.0 
          91.0 
          88.0 
          81.0 
@@ -1062,21 +1062,21 @@
 <constant name="iacPWMrun">"No"</constant>
 <constant name="fuelTrimEnabled">"No"</constant>
 <constant name="flatSEnable">"No"</constant>
-<constant name="baroPin">"A0"</constant>
+<constant name="baroPin">"A7"</constant>
 <constant digits="0" name="flatSSoftWin" units="rpm">400.0</constant>
 <constant digits="0" name="flatSRetard" units="deg">5.0</constant>
 <constant digits="0" name="flatSArm" units="rpm">2000.0</constant>
 <constant cols="1" digits="0" name="iacCLValues" rows="10" units="RPM">
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
+         1200.0 
+         1200.0 
+         1200.0 
+         1200.0 
+         1100.0 
+         1050.0 
+         1050.0 
+         1000.0 
+         950.0 
+         900.0 
       </constant>
 <constant cols="1" digits="0" name="iacOLStepVal" rows="10" units="Steps">
          369.0 
@@ -1103,7 +1103,7 @@
          9.0 
       </constant>
 <constant cols="1" digits="0" name="iacBins" rows="10" units="C">
-         -38.0 
+         -39.0 
          -19.0 
          1.0 
          17.0 
@@ -1844,7 +1844,7 @@
 <constant digits="1" name="knock_recoveryStepTime" units="Sec">0.1</constant>
 <constant digits="0" name="knock_recoveryStep" units="Deg">0.0</constant>
 <constant name="fuel2Algorithm">"TPS"</constant>
-<constant name="fuel2Mode">"Switched - Conditional"</constant>
+<constant name="fuel2Mode">"Off"</constant>
 <constant name="fuel2SwitchVariable">"TPS"</constant>
 <constant digits="1" name="fuel2SwitchValue" units="% TPS">20.0</constant>
 <constant name="fuel2InputPin">"3"</constant>
@@ -1948,8 +1948,8 @@
 <constant cols="16" digits="0" name="veTable2" rows="16" units="%">
          102.0 104.0 97.0 97.0 99.0 90.0 72.0 73.0 80.0 71.0 78.0 91.0 112.0 112.0 114.0 116.0 
          106.0 109.0 110.0 113.0 102.0 96.0 84.0 87.0 87.0 80.0 82.0 94.0 97.0 97.0 99.0 101.0 
-         112.0 109.0 101.0 109.0 112.0 104.0 99.0 98.0 95.0 88.0 86.0 89.0 103.0 103.0 105.0 108.0 
-         105.0 97.0 107.0 107.0 109.0 101.0 104.0 109.0 103.0 94.0 92.0 95.0 109.0 109.0 111.0 114.0 
+         112.0 109.0 101.0 109.0 112.0 107.0 99.0 98.0 95.0 88.0 86.0 89.0 103.0 103.0 105.0 108.0 
+         105.0 97.0 107.0 107.0 109.0 107.0 104.0 109.0 103.0 94.0 92.0 95.0 109.0 109.0 111.0 114.0 
          109.0 105.0 105.0 111.0 115.0 114.0 113.0 110.0 106.0 99.0 102.0 112.0 117.0 118.0 120.0 124.0 
          119.0 122.0 115.0 114.0 116.0 118.0 119.0 117.0 107.0 105.0 110.0 122.0 128.0 129.0 131.0 135.0 
          118.0 130.0 117.0 112.0 120.0 125.0 115.0 115.0 115.0 117.0 125.0 134.0 139.0 140.0 142.0 146.0 
@@ -2136,7 +2136,7 @@
          25.5 
       </constant>
 <constant cols="1" digits="0" name="firstDataIn" rows="8">
-         0.0 
+         14.0 
          255.0 
          255.0 
          255.0 
@@ -2145,7 +2145,7 @@
          255.0 
          255.0 
       </constant>
-<constant name="firstDataIn0">"seconds"</constant>
+<constant name="firstDataIn0">"RPM"</constant>
 <constant cols="1" digits="0" name="secondDataIn" rows="8">
          0.0 
          255.0 
@@ -2178,7 +2178,7 @@
          255.0 
       </constant>
 <constant cols="1" digits="0" name="firstTarget" rows="8">
-         0.0 
+         600.0 
          -1.0 
          -1.0 
          -1.0 
